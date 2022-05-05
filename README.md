@@ -33,7 +33,7 @@ We have used these figures for additional National Insurance costs and the Teach
 We have updated non-staff costs with the latest estimates for the GDP deflator measure of inflation from HM Teasury, [GDP deflators at market prices, and money GDP March 2022 (Spring Statement)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1062965/GDP_Deflators_Spring_Statement_March_2022_update.xlsx).
 
 ### Support staff pay
-The DfE documents uses the National Joint Council (NJC) pay awards, which cover all local authority staff. However, school support staff are paid signifcantly less well paid than council staff and many are employed on the minimum wage. In recent years, there have been significant uplifts in the minimum wage. We made an index for school support staff pay by sending Freedom of Information requests to a sample of local authorities and then tracked the value of those pay points back to 2009-10 and weighted them by the number of staff paid on each grade. The increases in the minimum wage have had a substantial impact on school support staff pay and their pay has risen much faster than the headline rates for the NJC awards.
+The DfE documents uses the National Joint Council (NJC) pay awards, which cover all local authority staff. However, school support staff are paid signifcantly less well paid than council staff and many are employed on the minimum wage. In recent years, there have been significant uplifts in the minimum wage. We made an index for school support staff pay by sending Freedom of Information requests to a sample of local authorities and then tracked the value of those pay points back to 2009-10 and weighted them by the number of staff paid on each grade from the FOIs. The increases in the minimum wage have had a substantial impact on school support staff pay and their pay has risen much faster than the headline rates for the NJC awards.
 
 ![image](https://user-images.githubusercontent.com/4374366/166963983-2fe4ca2f-c4c2-4cd9-9e69-f05601edd747.png)
 
@@ -41,3 +41,15 @@ The DfE documents uses the National Joint Council (NJC) pay awards, which cover 
 
 ![image](https://user-images.githubusercontent.com/4374366/166976449-074901e4-7aee-4a75-82d4-43029b45b6e4.png)
 
+## Calculating school funding changes
+For each school we calculated the Grant Funding (2022-23 prices) by multiplying it by the school costs index. 
+We calculated the per pupil funding by diving it by the number of pupils reported in the school funding tables. 
+To calculate the change in spending power, we found the difference in the real-terms per pupil funding between 2015-16 and 2020-21 and then multiplying it by the number of pupils in 2020-21.
+
+To calculate the aggregate funding changes by local authority, trust, parliamentary constituency and district; we calculated the change in real-terms per pupil funding by summing all the Grant Funding in 2022-23 prices for schools where funding data was available for both 2015-16 and 2022-23 and then divided it by the total number of pupils in those schools. We then made the spending power calculation as above.
+
+### Anomalies
+We found some anomolies in the data, that alternative provision places and Pupil Referal Units had the wrong pupil numbers for 2016-17 and so we excluded them. 
+We also found that some schools had clearly misreported their funding or pupils numbers, so we excluded all schools with a change in funding up or down of greater than 50%. 
+
+These calculations are contained in the Python script, [school_cuts.py](school_cuts.py).
