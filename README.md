@@ -89,6 +89,6 @@ We also found that some schools had clearly misreported their funding or pupil n
 ## Code
 The funding calculations are contained in the Python script, [school_cuts.py](school_cuts.py).
 
-[edubase.py](edubase.py) downloads the latest version of school information from [Get Information About Schools](https://get-information-schools.service.gov.uk/Downloads) and uses this information to update the Unique Reference Number for schools so they can be compared over time.
+[edubase.py](edubase.py) downloads the latest version of school information from [Get Information About Schools](https://get-information-schools.service.gov.uk/Downloads) and uses this to update the Unique Reference Number for schools so they can be compared over time.
 
 An Excel file with information for all schools and the summary tables are contained in the [output folder](https://github.com/National-Education-Union/school_cuts/tree/main/output).
