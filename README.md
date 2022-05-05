@@ -12,7 +12,7 @@ These cuts varied by school type with mainstream primary schools least affected 
 
 ![image](https://user-images.githubusercontent.com/4374366/167014371-6d6f8a84-6beb-4f22-9280-d350e8d44edd.png)
 
-In addition, schools with greater levels of poverty amongst their pupils harder hit than schools serving the less disadvantaged.
+In addition, schools with greater levels of poverty amongst their pupils were harder hit than schools serving the less disadvantaged.
 
 ![image](https://user-images.githubusercontent.com/4374366/167015538-034aedf3-8f58-4861-8b79-70c75262bbab.png)
 
