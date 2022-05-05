@@ -39,7 +39,7 @@ The DfE documents uses the National Joint Council (NJC) pay awards, which cover 
 
 ## School costs index
 
-![image](https://user-images.githubusercontent.com/4374366/166976449-074901e4-7aee-4a75-82d4-43029b45b6e4.png)
+![image](https://user-images.githubusercontent.com/4374366/166982808-d544e54b-300e-49ba-bbc9-9ad13fc3bb00.png)
 
 ## Calculating school funding changes
 For each school we calculated the Grant Funding (2022-23 prices) by multiplying it by the school costs index. 
@@ -57,4 +57,5 @@ These calculations are contained in the Python script, [school_cuts.py](school_c
 [edubase.py](edubase.py) downloads the latest version of school information from [Get Information About Schools](https://get-information-schools.service.gov.uk/Downloads). [school_cuts.py](school_cuts.py) uses this information to update the Unique Reference NUmber for schools that have converted to academy status.
 The Excel file with information for all schools and the summary tabels are contained in the [output folder](https://github.com/National-Education-Union/school_cuts/tree/main/output).
 
+# School cuts map
 The school information can also be found on a map at [www.schoolcuts.org.uk](www.schoolcuts.org.uk).
