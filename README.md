@@ -28,6 +28,7 @@ It is striking that despite the claimed ambition of the Government to address hi
 
 ![image](https://user-images.githubusercontent.com/4374366/167017084-ba5b3359-6db4-40a9-bb0b-fc2da0a7f71a.png)
 
+The summary tabels are contained in the [output folder](https://github.com/National-Education-Union/school_cuts/tree/main/output).
 
 
 # School cuts methodology
@@ -87,5 +88,6 @@ We also found that some schools had clearly misreported their funding or pupils 
 
 ## Code
 These calculations are contained in the Python script, [school_cuts.py](school_cuts.py).
-[edubase.py](edubase.py) downloads the latest version of school information from [Get Information About Schools](https://get-information-schools.service.gov.uk/Downloads). [school_cuts.py](school_cuts.py) uses this information to update the Unique Reference NUmber for schools that have converted to academy status.
+[edubase.py](edubase.py) downloads the latest version of school information from [Get Information About Schools](https://get-information-schools.service.gov.uk/Downloads). 
+[school_cuts.py](school_cuts.py) uses this information to update the Unique Reference Number for schools that have converted to academy status, calculates the changes in school funding and produces summary tables.
 The Excel file with information for all schools and the summary tabels are contained in the [output folder](https://github.com/National-Education-Union/school_cuts/tree/main/output).
