@@ -2,7 +2,19 @@
 The school funding information can be found on a map at [www.schoolcuts.org.uk](www.schoolcuts.org.uk).
 
 # Findings
+We found that out of the 20,319 schools with comparable data 14,227 (70%) had less spending power in 2020-21 compared with 2015-16. This is despite the fact that in 2020-21 schools had additional funding to spend on mitigating the spread coronavris and funding to support pupils catching-up their lost learning.
 
+Per pupil funding felll by -£362 on average from £6,837 in 2015-16 to £6,475 in 2020-21 (in 2022-23 prices). This cut in per pupil funding is equivalent to a cut in school spending power of -£2.8 bn or 6%.
+
+These funding cuts were not evenly spread. 
+
+These cuts varied by school type with mainstream primary schools least affected and nursery schools, all-through schools and special schools worst affected.
+
+![image](https://user-images.githubusercontent.com/4374366/167014371-6d6f8a84-6beb-4f22-9280-d350e8d44edd.png)
+
+In addition, schools with greater levels of poverty amongst their pupils harder hit than schools serving the less disadvantaged.
+
+![image](https://user-images.githubusercontent.com/4374366/167015329-06860b7c-161b-48cc-b1dd-501fe79e9518.png)
 
 # School cuts methodology
 
