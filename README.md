@@ -46,7 +46,7 @@ The DfE documents uses the National Joint Council (NJC) pay awards, which cover 
 
 ![image](https://user-images.githubusercontent.com/4374366/166983069-2d86ff8f-9602-4c11-bc53-f6bc76eb9e0a.png)
 
-The calculations be found in the spreadsheet, [school_costs.xlsx]()
+The calculations be found in the spreadsheet, [school costs.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20costs.xlsx).
 
 ## Calculating school funding changes
 For each school we calculated the Grant Funding (2022-23 prices) by multiplying it by the school costs index. 
