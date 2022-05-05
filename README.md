@@ -52,4 +52,9 @@ To calculate the aggregate funding changes by local authority, trust, parliament
 We found some anomolies in the data, that alternative provision places and Pupil Referal Units had the wrong pupil numbers for 2016-17 and so we excluded them. 
 We also found that some schools had clearly misreported their funding or pupils numbers, so we excluded all schools with a change in funding up or down of greater than 50%. 
 
+## Code
 These calculations are contained in the Python script, [school_cuts.py](school_cuts.py).
+[edubase.py](edubase.py) downloads the latest version of school information from [Get Information About Schools](https://get-information-schools.service.gov.uk/Downloads). [school_cuts.py](school_cuts.py) uses this information to update the Unique Reference NUmber for schools that have converted to academy status.
+The Excel file with information for all schools and the summary tabels are contained in the [output folder](https://github.com/National-Education-Union/school_cuts/tree/main/output).
+
+The school information can also be found on a map at [www.schoolcuts.org.uk](www.schoolcuts.org.uk).
