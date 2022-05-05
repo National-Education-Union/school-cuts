@@ -1,5 +1,10 @@
+# School cuts map
+The school funding information can be found on a map at [www.schoolcuts.org.uk](www.schoolcuts.org.uk).
+
+# Findings
+
+
 # School cuts methodology
-An analysis of school funding in England
 
 ## School funding
 We took the grant funding for every school in 2015-16 and compared it with 2020-21.
@@ -41,6 +46,8 @@ The DfE documents uses the National Joint Council (NJC) pay awards, which cover 
 
 ![image](https://user-images.githubusercontent.com/4374366/166983069-2d86ff8f-9602-4c11-bc53-f6bc76eb9e0a.png)
 
+The calculations be found in the spreadsheet, [school_costs.xlsx]()
+
 ## Calculating school funding changes
 For each school we calculated the Grant Funding (2022-23 prices) by multiplying it by the school costs index. 
 We calculated the per pupil funding by diving it by the number of pupils reported in the school funding tables. 
@@ -56,6 +63,3 @@ We also found that some schools had clearly misreported their funding or pupils 
 These calculations are contained in the Python script, [school_cuts.py](school_cuts.py).
 [edubase.py](edubase.py) downloads the latest version of school information from [Get Information About Schools](https://get-information-schools.service.gov.uk/Downloads). [school_cuts.py](school_cuts.py) uses this information to update the Unique Reference NUmber for schools that have converted to academy status.
 The Excel file with information for all schools and the summary tabels are contained in the [output folder](https://github.com/National-Education-Union/school_cuts/tree/main/output).
-
-# School cuts map
-The school information can also be found on a map at [www.schoolcuts.org.uk](www.schoolcuts.org.uk).
