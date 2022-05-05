@@ -87,7 +87,7 @@ We found some anomalies in the data. The number of pupils in Alternative Provisi
 We also found that some schools had clearly misreported their funding or pupil numbers, so we excluded all schools with a change in funding up or down of greater than 50%. 
 
 ## Code
-These calculations are contained in the Python script, [school_cuts.py](school_cuts.py).
+The funding calculations are contained in the Python script, [school_cuts.py](school_cuts.py).
 
 [edubase.py](edubase.py) downloads the latest version of school information from [Get Information About Schools](https://get-information-schools.service.gov.uk/Downloads) and uses this information to update the Unique Reference Number for schools so they can be compared over time.
 
