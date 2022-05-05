@@ -37,3 +37,7 @@ The DfE documents uses the National Joint Council (NJC) pay awards, which cover 
 
 ![image](https://user-images.githubusercontent.com/4374366/166963983-2fe4ca2f-c4c2-4cd9-9e69-f05601edd747.png)
 
+## School costs index
+
+![image](https://user-images.githubusercontent.com/4374366/166976449-074901e4-7aee-4a75-82d4-43029b45b6e4.png)
+
