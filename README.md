@@ -14,7 +14,21 @@ These cuts varied by school type with mainstream primary schools least affected 
 
 In addition, schools with greater levels of poverty amongst their pupils harder hit than schools serving the less disadvantaged.
 
-![image](https://user-images.githubusercontent.com/4374366/167015329-06860b7c-161b-48cc-b1dd-501fe79e9518.png)
+![image](https://user-images.githubusercontent.com/4374366/167015538-034aedf3-8f58-4861-8b79-70c75262bbab.png)
+
+There was also signficant regional and local variation.
+
+![image](https://user-images.githubusercontent.com/4374366/167016048-8d945b8b-1406-4a08-9c83-f270c8cf6464.png)
+
+The twenty worst hit local authorities were:
+
+![image](https://user-images.githubusercontent.com/4374366/167016757-df54d188-4f07-4c1d-a238-3dd92728ea47.png)
+
+It is striking that despite the claimed ambition of the Government to address histroic under-funding, only 7 out of 152 local authorities saw an increase in their spending power:
+
+![image](https://user-images.githubusercontent.com/4374366/167017084-ba5b3359-6db4-40a9-bb0b-fc2da0a7f71a.png)
+
+
 
 # School cuts methodology
 
