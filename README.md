@@ -19,7 +19,9 @@ The source for this data is from the [Schools financial benchmarking](https://sc
 
 ## School costs index
 We have updated and extended the index of school costs published by the National Audit Office in their report, ["Financial sustainability of schools"](https://www.nao.org.uk/wp-content/uploads/2016/12/Financial-sustainability-of-schools.pdf).
+
 ![image](https://user-images.githubusercontent.com/4374366/166971613-2750e6d7-b8d4-4ca9-aa86-2e78f930816e.png)
+
 This chart shows cumulative costs pressures facing schools, 2016-17 to 2019-20
 
 We have used these figures for additional National Insurance costs and the Teachers’ Pension Scheme. We have used the Department for Education (DfE) documents:
@@ -32,4 +34,6 @@ We have updated non-staff costs with the latest estimates for the GDP deflator m
 
 ### Support staff pay
 The DfE documents uses the National Joint Council pay awards, which cover all local authority staff. However, school support staff are paid signifcantly less well paid than council staff and many are employed on the minimum wage. In recent years, there have been significant uplifts in the minimum wage. We made an index for school support staff pay by sending Freedom of Information requests to a sample of local authorities and then tracked the value of those pay points back to 2009-10 and weighted them by the number of staff paid on each grade. The increases in the minimum wage have had a substantial impact on school support staff pay.
+
 ![image](https://user-images.githubusercontent.com/4374366/166963983-2fe4ca2f-c4c2-4cd9-9e69-f05601edd747.png)
+
