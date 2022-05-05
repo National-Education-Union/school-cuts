@@ -31,7 +31,7 @@ It is striking that despite the claimed ambition of the Government to address hi
 The summary tables are contained in the [output folder](https://github.com/National-Education-Union/school_cuts/tree/main/output).
 
 
-# School cuts methodology
+# Methodology
 
 ## School funding
 We took the grant funding for every school in 2015-16 and compared it with 2020-21.
