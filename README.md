@@ -76,7 +76,7 @@ The DfE documents uses the National Joint Council (NJC) pay awards, which cover 
 The calculations be found in the spreadsheet, [school costs.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20costs.xlsx).
 
 ## Calculating school funding changes
-For each school we calculated the Grant Funding (2022-23 prices) by multiplying it by the school costs index. 
+For each school we calculated funding in 2022-23 prices using the school costs index. 
 We calculated the per pupil funding by diving it by the number of pupils reported in the school funding tables. 
 To calculate the change in spending power, we found the difference in the real terms per pupil funding between 2015-16 and 2020-21 and then multiplying it by the number of pupils in 2020-21.
 
