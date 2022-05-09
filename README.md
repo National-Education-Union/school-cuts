@@ -84,6 +84,8 @@ To calculate the aggregate funding changes by local authority, trust, parliament
 
 ![image](https://user-images.githubusercontent.com/4374366/167357380-ec16e402-d01f-425f-85c7-1255aeeb2244.png)
 
+For the summary tables looking at the deprivation of pupils, we grouped schools by phase and then split them into quintiles using the proportion of pupils receiving free school meals. 
+
 ### Anomalies
 We found some anomalies in the data. The number of pupils in Alternative Provision and Pupil Referral Units was wrong for 2016-17 and so we excluded them. 
 We also found that some schools had clearly misreported their funding or pupil numbers, so we excluded all schools with a change in funding up or down of greater than 50%. 
