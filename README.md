@@ -82,6 +82,8 @@ To calculate the change in spending power, we found the difference in the real t
 
 To calculate the aggregate funding changes by local authority, trust, parliamentary constituency and district; we calculated the change in real terms per pupil funding by summing all the Grant Funding in 2022-23 prices for schools where funding data was available for both 2015-16 and 2022-23 and then divided it by the total number of pupils in those schools. We then made the spending power calculation as above.
 
+![image](https://user-images.githubusercontent.com/4374366/167357380-ec16e402-d01f-425f-85c7-1255aeeb2244.png)
+
 ### Anomalies
 We found some anomalies in the data. The number of pupils in Alternative Provision and Pupil Referral Units was wrong for 2016-17 and so we excluded them. 
 We also found that some schools had clearly misreported their funding or pupil numbers, so we excluded all schools with a change in funding up or down of greater than 50%. 
