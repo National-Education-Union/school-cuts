@@ -71,7 +71,7 @@ The DfE documents uses the National Joint Council (NJC) pay awards, which cover 
 
 ![image](https://user-images.githubusercontent.com/4374366/177144593-f423b80a-3fa7-41fd-8498-07ae766f8ab7.png)
 
-Our results concur with the DfE analysis for the period 2018 to 2020, where they have estimated the increase in pay as 6.3% over the two years. We disagree with the DfE estimate for 2019 to 2020. The DfE gave the figure for 2.4%; however, the NJC award was 2.75% on all grades. The spreadsheet with the calculations are in [school support staff pay.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20support%20staff%20pay.xlsx).
+Our results agree with the DfE analysis for the period 2018 to 2020, where they have estimated the increase in pay as 6.3% over the two years. We disagree with the DfE estimate for 2019 to 2020. The DfE gave the figure for 2.4%; however, the NJC award was 2.75% on all grades. The spreadsheet with the calculations are in [school support staff pay.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20support%20staff%20pay.xlsx).
 
 ## School costs index
 
