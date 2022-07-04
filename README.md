@@ -9,17 +9,17 @@ Real terms per pupil funding was cut by £362 on average from £6,837 in 2015-16
 These funding cuts were not evenly spread. 
 
 These cuts varied by school type with mainstream primary schools least affected and nursery schools and special schools worst affected.
-<img src="https://user-images.githubusercontent.com/4374366/177136542-6ad90a79-0c5b-4107-8e5d-1b184200f3d6.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/177146375-d3dffff3-b94e-4af7-a71f-efe3361a6f8a.png" width="600">
 
 In addition, schools with greater levels of poverty amongst their pupils were harder hit than schools serving the less disadvantaged.
 
-<img src="https://user-images.githubusercontent.com/4374366/177141892-dfe1e78d-00ae-48b9-837f-83afe5c77838.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/177146437-ba777f7d-bf50-4705-9979-492da1ca996b.png" width="600">
 
-<img src="https://user-images.githubusercontent.com/4374366/177141911-5151403a-826e-43bd-8e18-2eb08decc3f5.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/177146497-2322a2d4-7bd3-4086-808a-3210e6ee26de.png" width="600">
 
 There was also significant regional and local variation.
 
-<img src="https://user-images.githubusercontent.com/4374366/177141962-cdb60102-ea73-4122-ac6d-46059495bafb.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/177146559-73778363-f4e2-4877-86a0-9ae810248b6d.png" width="600">
 
 The twenty worst hit local authorities were:
 
