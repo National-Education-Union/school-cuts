@@ -71,7 +71,7 @@ The DfE documents uses the National Joint Council (NJC) pay awards, which cover 
 
 ## School costs index
 
-<img src="https://user-images.githubusercontent.com/4374366/177142834-9b864cce-c889-40e3-aa17-bb01d6f62223.png" height="800">
+<img src="https://user-images.githubusercontent.com/4374366/177145549-893b03dc-01ff-402c-96f0-0ce35181b936.png" height="800">
 
 The calculations be found in the spreadsheet, [school costs.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20costs.xlsx).
 
