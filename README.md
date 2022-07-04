@@ -8,25 +8,26 @@ Real terms per pupil funding was cut by £362 on average from £6,837 in 2015-16
 
 These funding cuts were not evenly spread. 
 
-These cuts varied by school type with mainstream primary schools least affected and nursery schools, all-through schools and special schools worst affected.
-
-![image](https://user-images.githubusercontent.com/4374366/167014371-6d6f8a84-6beb-4f22-9280-d350e8d44edd.png)
+These cuts varied by school type with mainstream primary schools least affected and nursery schools and special schools worst affected.
+<img src="https://user-images.githubusercontent.com/4374366/177136542-6ad90a79-0c5b-4107-8e5d-1b184200f3d6.png" width="600">
 
 In addition, schools with greater levels of poverty amongst their pupils were harder hit than schools serving the less disadvantaged.
 
-![image](https://user-images.githubusercontent.com/4374366/167015538-034aedf3-8f58-4861-8b79-70c75262bbab.png)
+<img src="https://user-images.githubusercontent.com/4374366/177141892-dfe1e78d-00ae-48b9-837f-83afe5c77838.png" width="600">
+
+<img src="https://user-images.githubusercontent.com/4374366/177141911-5151403a-826e-43bd-8e18-2eb08decc3f5.png" width="600">
 
 There was also significant regional and local variation.
 
-![image](https://user-images.githubusercontent.com/4374366/167017687-55cb7d38-fb05-4a2a-a101-afc1e8af35ab.png)
+<img src="https://user-images.githubusercontent.com/4374366/177141962-cdb60102-ea73-4122-ac6d-46059495bafb.png" width="600">
 
 The twenty worst hit local authorities were:
 
-![image](https://user-images.githubusercontent.com/4374366/167016757-df54d188-4f07-4c1d-a238-3dd92728ea47.png)
+![image](https://user-images.githubusercontent.com/4374366/177141514-6db07134-b964-4180-8f54-4741d8222c6d.png)
 
-It is striking that despite the claimed ambition of the Government to address historic under-funding, only 7 out of 152 local authorities saw an increase in their spending power:
+It is striking that despite the claimed ambition of the Government to address historic under-funding, only 22 out of 152 local authorities saw an increase in their spending power:
 
-![image](https://user-images.githubusercontent.com/4374366/167017084-ba5b3359-6db4-40a9-bb0b-fc2da0a7f71a.png)
+![image](https://user-images.githubusercontent.com/4374366/177141790-40d8b4fd-0139-4999-b68f-6944971c9881.png)
 
 The summary tables are contained in the [output folder](https://github.com/National-Education-Union/school_cuts/tree/main/output).
 
@@ -52,9 +53,8 @@ This data was taken from [Schools financial benchmarking](https://schools-financ
 ## School costs index
 We have updated and extended the index of school costs published by the National Audit Office in their report, ["Financial sustainability of schools"](https://www.nao.org.uk/wp-content/uploads/2016/12/Financial-sustainability-of-schools.pdf).
 
-![image](https://user-images.githubusercontent.com/4374366/167358334-2df7eb4d-ff87-468e-9511-6def70f65c2d.png)
-
 This chart shows cumulative costs pressures facing schools, 2016-17 to 2019-20
+<img src="https://user-images.githubusercontent.com/4374366/177144873-eb516580-7eb4-4a94-851c-b9a3b98452a9.png" height="800">
 
 We have used these figures for additional National Insurance costs and the Teachers’ Pension Scheme. We have used the Department for Education (DfE) documents:
 - [Schools’ costs: 2018 to 2019 and 2019 to 2020 (Feb 2018)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/678439/Schools_costs_technical_note.pdf)
@@ -67,11 +67,11 @@ We have updated non-staff costs with the latest estimates for the GDP deflator m
 ### Support staff pay
 The DfE documents uses the National Joint Council (NJC) pay awards, which cover all local authority staff. However, school support staff are paid significantly less well than the average council employee and many are employed on the minimum wage. In recent years, there have been uplifts in the minimum wage that outstrip pay awards for other council workers. We made an index for school support staff pay by sending Freedom of Information requests (FOIs) to a sample of local authorities and then tracked the value of the pay points back to 2009-10 and weighted them by the number of staff paid on each grade from the FOIs. The increases in the minimum wage have had a substantial impact on school support staff pay and their pay has risen much faster than the headline rates for the NJC awards.
 
-![image](https://user-images.githubusercontent.com/4374366/166963983-2fe4ca2f-c4c2-4cd9-9e69-f05601edd747.png)
+![image](https://user-images.githubusercontent.com/4374366/177144593-f423b80a-3fa7-41fd-8498-07ae766f8ab7.png)
 
 ## School costs index
 
-![image](https://user-images.githubusercontent.com/4374366/167592255-9b207b64-ae02-4380-aa86-317b9dce8886.png)
+<img src="https://user-images.githubusercontent.com/4374366/177145549-893b03dc-01ff-402c-96f0-0ce35181b936.png" height="800">
 
 The calculations be found in the spreadsheet, [school costs.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20costs.xlsx).
 
