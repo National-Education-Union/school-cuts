@@ -53,7 +53,7 @@ This data was taken from [Schools financial benchmarking](https://schools-financ
 ## School costs index
 We have updated and extended the index of school costs published by the National Audit Office in their report, ["Financial sustainability of schools"](https://www.nao.org.uk/wp-content/uploads/2016/12/Financial-sustainability-of-schools.pdf).
 
-![image](https://user-images.githubusercontent.com/4374366/167358334-2df7eb4d-ff87-468e-9511-6def70f65c2d.png)
+![image](https://user-images.githubusercontent.com/4374366/177142834-9b864cce-c889-40e3-aa17-bb01d6f62223.png)
 
 This chart shows cumulative costs pressures facing schools, 2016-17 to 2019-20
 
