@@ -9,6 +9,7 @@ output_filenames = {
     "edubase": f"{output_dir}/edubase.csv",
     "lookup": f"{output_dir}/lookup.csv",
     "statefunded": f"{output_dir}/statefunded.csv",
+    "links": f"{output_dir}/links.csv",
     "group_links": f"{output_dir}/group_links.csv",
     "groups": f"{output_dir}/groups.csv",
     "academies": f"{output_dir}/academies.csv",
@@ -24,6 +25,7 @@ if (
         path.exists(output_filenames['edubase']) and
         path.exists(output_filenames['statefunded']) and
         path.exists(output_filenames['group_links']) and
+        path.exists(output_filenames['links']) and
         path.exists(output_filenames['groups']) and
         path.exists(output_filenames['academies']) and
         path.exists(output_filenames['lookup'])
@@ -164,9 +166,6 @@ if make_files and not(cant_make_files):
             ] = lookup["NEW_URN"]
         lookup.drop(columns=["NEW_URN"],inplace=True)
 
-    # delete links DataFrame
-    del(links)
-
     # delete files in output_dir
     for f in listdir(output_dir):
         file_path = f"{output_dir}/{f}"
@@ -271,6 +270,8 @@ def update_urn(
             'You must identify the location of URN in the DataFrame either the\
 index or a column.'
             )
+    if not urn_col is None:
+        urn_index=False
     if urn_index:
         if not(is_numeric_dtype(df.index)):
             raise ValueError('URN index must be numeric.')

@@ -907,7 +907,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 1944,,Federation of Wimboldsley and William Stockton Community Primary Schools,,1,Federation,,2013-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 1945,,Federation of Cicely Haughton and Loxley Hall School,,1,Federation,,2013-05-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 1946,,The Federation of St Kew and Upto Cross Primary School,,1,Federation,2017-04-30,2013-09-01,,CLOSED,Closed,,,,,Not recorded,,Not recorded,,,
-1947,,Jessop Stockwell Federation,,1,Federation,,2015-02-01,,OPEN,Open,,,,,Not recorded,,Mrs,Lilian,Umekwe,
+1947,,BJS Federation of Schools,,1,Federation,,2021-10-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 1948,,The Galaxy Federation,,1,Federation,2016-08-31,2013-09-01,,CLOSED,Closed,,,,,Not recorded,,Mr,Garry,Ratcliffe,
 1949,,The Federation of Robert Piggott Infant and Junior Schools,,1,Federation,,2012-09-01,,OPEN,Open,,,,,Not recorded,,Mrs,Sally Ann,Akers,
 1950,,Thornhill & Washington Schools Federation,,1,Federation,2017-08-31,1900-01-01,,CLOSED,Closed,,,,,Not recorded,,Not recorded,,,
@@ -1120,7 +1120,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 2170,TR00092,ASFORDBY HILL PRIMARY SCHOOL,8385139.0,10,Single-academy trust,,,2013-02-01,OPEN,Open,Asfordby Hill Primary School Melton Road,Asfordby Hill,,Melton Mowbray,Not recorded,LE14 3QX,Not recorded,,,10060309.0
 2171,TR00093,ASH FIELD ACADEMY TRUST,7988444.0,10,Single-academy trust,,,2012-03-13,OPEN,Open,Ash Field Academy,Broad Avenue,,Leicester,Not recorded,LE5 4PY,Not recorded,,,10059690.0
 2173,TR00095,ASHBY HILL TOP PRIMARY SCHOOL ACADEMY TRUST,8197381.0,10,Single-academy trust,,,2012-08-31,OPEN,Open,Ashby Hill Top Primary School,Beaumont Avenue,,Ashby-De-La-Zouch,Not recorded,LE65 2NF,Not recorded,,,10060056.0
-2174,TR00096,ASHBY SCHOOL,8126868.0,10,Single-academy trust,,,2012-07-02,OPEN,Open,Ashby School,Nottingham Road,,Ashby-De-La-Zouch,Not recorded,LE65 1DT,Not recorded,,,10059873.0
+2174,TR00096,ASHBY SCHOOL,8126868.0,10,Single-academy trust,2022-05-24,,2012-07-02,CLOSED,Closed,Ashby School,Nottingham Road,,Ashby-De-La-Zouch,Not recorded,LE65 1DT,Not recorded,,,10059873.0
 2177,TR02469,ASHLEY HILL MULTI ACADEMY TRUST,8163445.0,6,Multi-academy trust,,,2012-07-31,OPEN,Open,Bisham C Of E Academy Church Lane,Bisham,,Marlow,Not recorded,SL7 1RW,Not recorded,,,10059985.0
 2178,TR00099,THE ASHLEY SCHOOL ACADEMY TRUST,7729412.0,10,Single-academy trust,,,2011-08-04,OPEN,Open,The Ashley School Academy Trust,Ashley Downs,,Lowestoft,Not recorded,NR32 4EU,Not recorded,,,10059228.0
 2179,SP00021,Ashmole Academy,,5,School sponsor,,2010-01-05,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
@@ -1399,7 +1399,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 2483,TR00340,BRYMORE SCHOOL TRUST,7322811.0,6,Multi-academy trust,2014-07-29,,2010-07-22,CLOSED,Closed,C/O Bridgwater College College Way,Bath Road,,Bridgwater,Not recorded,TA6 4PZ,Not recorded,,,
 2484,TR00341,BUCKDEN CHURCH OF ENGLAND PRIMARY ACADEMY,7708603.0,10,Single-academy trust,,,2011-07-18,OPEN,Open,Buckden Church Of England Primary School School Lane,Buckden,,Huntingdon,Not recorded,PE19 5TT,Not recorded,,,10059151.0
 2485,TR00342,BUCKINGHAMSHIRE UTC.,7648803.0,10,Single-academy trust,,,2011-05-26,OPEN,Open,Bucks Utc,Oxford Road,,Aylesbury,Not recorded,HP21 8PB,Not recorded,,,10058780.0
-2486,TR00343,BUCKLER'S MEAD SCHOOL,7697504.0,10,Single-academy trust,,,2011-07-07,OPEN,Open,Buckler's Mead School,St John's Road,,Yeovil,Not recorded,BA21 4NH,Not recorded,,,10059075.0
+2486,TR00343,BUCKLER'S MEAD SCHOOL,7697504.0,10,Single-academy trust,2022-05-31,,2011-07-07,CLOSED,Closed,Buckler's Mead School,St John's Road,,Yeovil,Not recorded,BA21 4NH,Not recorded,,,10059075.0
 2487,TR00345,BULLERS WOOD MULTI ACADEMY TRUST,,10,Single-academy trust,2018-03-09,,2011-04-01,CLOSED,Closed,Bullers Wood School St Nicholas Lane,Logs Hill,,Chislehurst,Not recorded,BR7 5LJ,Not recorded,,,
 2488,TR00346,BULWELL ACADEMY TRUST,6194070.0,10,Single-academy trust,,,2007-03-30,OPEN,Open,C/O Edge Foundation 44,Whitfield Street,,London,Not recorded,W1T 2RH,Not recorded,,,10058208.0
 2489,TR00347,BUNGAY HIGH SCHOOL,7698578.0,10,Single-academy trust,2020-12-01,,2011-07-08,CLOSED,Closed,Queens Road,,,Bungay,Not recorded,NR35 1RW,Not recorded,,,10059093.0
@@ -1461,7 +1461,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 2549,TR00393,CARMOUNTSIDE PRIMARY ACADEMY,8170071.0,10,Single-academy trust,,,2012-08-07,OPEN,Open,Carmountside Primary Academy Woodhead Road,Abbey Hulton,,Stoke-On-Trent,Not recorded,ST2 8DJ,Not recorded,,,10060009.0
 2550,TR00394,CAROLINE CHISHOLM EDUCATION TRUST,7638756.0,10,Single-academy trust,,,2011-05-18,OPEN,Open,Caroline Chisholm School Wooldale Centre For Learning,Wooldale Road,,Wootton,Not recorded,NN4 6TP,Not recorded,,,10058750.0
 2552,TR00396,CARSHALTON BOYS SPORTS COLLEGE,7635432.0,10,Single-academy trust,,,2011-05-16,OPEN,Open,Carshalton Boys Sport College,Winchcombe Road,,Carshalton,Not recorded,SM5 1RW,Not recorded,,,10058740.0
-2553,TR00397,THE CARSHALTON GIRLS EDUCATIONAL TRUST,7635770.0,10,Single-academy trust,,,2011-05-16,OPEN,Open,Carshalton High School For Girls,West Street,,Carshalton,Not recorded,SM5 2QX,Not recorded,,,10058745.0
+2553,TR00397,THE CARSHALTON GIRLS EDUCATIONAL TRUST,7635770.0,10,Single-academy trust,2022-06-07,,2011-05-16,CLOSED,Closed,Carshalton High School For Girls,West Street,,Carshalton,Not recorded,SM5 2QX,Not recorded,,,10058745.0
 2554,TR00398,CARTMEL PRIORY CHURCH OF ENGLAND SCHOOL ACADEMY TRUST,7740632.0,10,Single-academy trust,,,2011-08-15,OPEN,Open,Cartmel Priory Church Of England School Headless Cross,Cartmel,,Grange Over Sands,Not recorded,LA11 7SA,Not recorded,,,10059273.0
 2555,TR02704,IRIS ACADEMIES TRUST,9050751.0,10,Single-academy trust,,,2014-05-21,OPEN,Open,"118, Upper Chobham Road",,,Camberley,Not recorded,GU15 1EJ,Not recorded,,,10060805.0
 2556,TR00399,CASTERTON COLLEGE RUTLAND,7718680.0,10,Single-academy trust,,,2011-07-26,OPEN,Open,Casterton College Rutland Ryhall Road,Great Casterton,,Stamford,Not recorded,PE9 4AT,Not recorded,,,10059189.0
@@ -1517,8 +1517,8 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 2606,TR00437,PIONEER LEARNING TRUST,,10,Single-academy trust,2019-01-02,,2012-07-06,CLOSED,Closed,Chantry Primary Academy,Tomlinson Avenue,,Luton,Not recorded,LU4 0QP,Not recorded,,,
 2607,TR00438,THE CHANTRY SCHOOL,7657852.0,10,Single-academy trust,,,2011-06-03,OPEN,Open,The Chantry School,Martley,,Worcester,Not recorded,WR6 6QA,Not recorded,,,10058839.0
 2608,SP00098,Chapel Street Community Schools Trust,,5,School sponsor,,2012-03-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-2609,TR00439,CHAPEL STREET COMMUNITY SCHOOLS TRUST,7885963.0,6,Multi-academy trust,,,2011-12-19,OPEN,Open,C/O Bdo Llp,55 Baker Street,,London,Not recorded,W1U 7EU,Not recorded,,,10059481.0
-2610,TR02951,CHAPELTOWN ACADEMY LIMITED,8264865.0,10,Single-academy trust,,,2012-10-23,OPEN,Open,The Hart Shaw Building,Europa Link,,Sheffield Business Park,Not recorded,S9 1XU,Not recorded,,,10060137.0
+2609,TR00439,CHAPEL STREET COMMUNITY SCHOOLS TRUST,7885963.0,6,Multi-academy trust,,,2011-12-19,OPEN,Open,5 Temple Square,Temple Street,,Liverpool,Not recorded,L2 5RH,Not recorded,,,10059481.0
+2610,TR02951,CHAPELTOWN ACADEMY LIMITED,8264865.0,10,Single-academy trust,2022-04-07,,2012-10-23,CLOSED,Closed,The Hart Shaw Building,Europa Link,,Sheffield Business Park,Not recorded,S9 1XU,Not recorded,,,10060137.0
 2611,TR00440,CHARLES DARWIN ACADEMY TRUST,7554396.0,6,Multi-academy trust,,,2011-03-07,OPEN,Open,Charles Darwin School Jail Lane,Biggin Hill,,Westerham,Not recorded,TN16 3AU,Not recorded,,,10058596.0
 2612,SP00869,Charles Darwin Academy Trust,,5,School sponsor,,2013-06-06,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 2613,SP00099,Charles Dunstone,,5,School sponsor,,2009-09-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
@@ -1881,7 +1881,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 2993,TR00714,GROVE LEARNING TRUST,,10,Single-academy trust,2019-12-02,,2011-08-04,CLOSED,Closed,Eastrop Infant School Eastrop,Highworth,,Swindon,Not recorded,SN6 7AP,Not recorded,,,
 2995,TR00716,EATON BANK ACADEMY,8156927.0,10,Single-academy trust,2021-08-03,,2012-07-25,CLOSED,Closed,Eaton Bank Academy,Jackson Road,,Congleton,Not recorded,CW12 1NT,Not recorded,,,10059965.0
 2996,TR00717,EATON BRAY ACADEMY,7556185.0,10,Single-academy trust,,,2011-03-08,OPEN,Open,Eaton Bray Academy School Lane,Eaton Bray,,Dunstable,Not recorded,LU6 2DT,Not recorded,,,10058600.0
-2997,SP00211,Boudica Schools Trust,,5,School sponsor,,2012-12-10,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+2997,SP00211,Broad Horizons Education Trust,,5,School sponsor,,2012-12-10,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 3000,SP00687,Ebor Academy Trust,,5,School sponsor,,2013-02-05,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 3001,TR02566,EBOR ACADEMY TRUST,8806335.0,6,Multi-academy trust,,,2013-12-09,OPEN,Open,Ebor Business And Training Centre The Leyes,Osbaldwick,,York,Not recorded,YO10 3PR,Not recorded,,,10061219.0
 3002,TR00721,THE ECCLESBOURNE SCHOOL,7524069.0,10,Single-academy trust,,,2011-02-09,OPEN,Open,The Ecclesbourne School Wirksworth Road,Duffield,,Belper,Not recorded,DE56 4GS,Not recorded,,,10058508.0
@@ -1985,7 +1985,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 3109,TR00798,THE FLITCH GREEN ACADEMY,7477728.0,10,Single-academy trust,,,2010-12-23,OPEN,Open,The Flitch Green Academy Tanton Road,Little Dunmow,,Dunmow,Not recorded,CM6 3GG,Not recorded,,,10058457.0
 3110,TR00799,HEALTHY LEARNING TRUST,,10,Single-academy trust,2017-10-17,,2011-07-04,CLOSED,Closed,Flixton Girls' School Flixton Road,Flixton,,Urmston,Not recorded,M41 5DR,Not recorded,,,
 3111,TR00800,FLYING HIGH TRUST,8076374.0,6,Multi-academy trust,,,2012-05-21,OPEN,Open,2a Vickery Way,Chilwell,,Nottingham,Not recorded,NG12 3LG,Not recorded,,,10059799.0
-3112,TR00801,FOCUS ACADEMY TRUST (UK) LTD,8071176.0,6,Multi-academy trust,,,2012-05-16,OPEN,Open,Talking Point Conference Centre Huddersfield Road,Scouthead,,Oldham,Not recorded,OL4 4AG,Not recorded,,,10059792.0
+3112,TR00801,FOCUS ACADEMY TRUST (UK) LTD,8071176.0,6,Multi-academy trust,,,2012-05-16,OPEN,Open,Ram Mill Business Centre Gordon Street,Chadderton,,Oldham,Not recorded,OL9 9RH,Not recorded,,,10059792.0
 3113,SP00230,Focus Academy Trust (UK) Ltd,,5,School sponsor,,2012-06-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 3114,TR00802,OLDFAAT LIMITED,5115594.0,10,Single-academy trust,2019-04-09,,2004-04-29,CLOSED,Closed,Folkestone Academy,Academy Lane,,Folkestone,Not recorded,CT19 5FP,Not recorded,,,
 3115,TR00803,THE FOLKESTONE SCHOOL FOR GIRLS ACADEMY TRUST,7882159.0,6,Multi-academy trust,,,2011-12-14,OPEN,Open,The Folkestone School For Girls,Coolinge Lane,,Folkestone,Not recorded,CT20 3RB,Not recorded,,,10059477.0
@@ -2171,7 +2171,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 3317,TR00967,HARPENDEN ACADEMY LIMITED,7649122.0,10,Single-academy trust,2018-12-11,,2011-05-26,CLOSED,Closed,Harpenden Academy,Vaughan Road,,Harpenden,Not recorded,AL5 4EN,Not recorded,,,
 3318,SP00256,Harpur Trust,,5,School sponsor,,2010-12-21,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 3319,SP00257,Harris Federation,,5,School sponsor,,2010-09-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-3320,TR00968,HARRIS FEDERATION,6228587.0,6,Multi-academy trust,,,2007-04-26,OPEN,Open,4th Floor Norfolk House,Wellesley Road,,Croydon,Not recorded,CR0 1LH,Not recorded,,,10058214.0
+3320,TR00968,HARRIS FEDERATION,6228587.0,6,Multi-academy trust,,,2007-04-26,OPEN,Open,4th Floor Norfolk House,Wellesley Road,,Croydon,Not recorded,CR0 1LH,Not recorded,,,10055126.0
 3322,TR00970,HARROGATE HIGH SCHOOL ACADEMY TRUST,8074099.0,10,Single-academy trust,2016-08-30,,2012-05-17,CLOSED,Closed,Harrogate High School,Ainsty Road,,Harrogate,Not recorded,HG1 4AP,Not recorded,,,
 3323,TR00971,THE HARROW ALTERNATIVE PROVISION ACADEMY TRUST,7949213.0,10,Single-academy trust,,,2012-02-14,OPEN,Open,73-77 Lowlands Road,,,Harrow,Not recorded,HA1 3AW,Not recorded,,,10059586.0
 3324,TR00972,HARROW HIGH SCHOOL,7695709.0,10,Single-academy trust,,,2011-07-06,OPEN,Open,Harrow High School,Gayton Road,,Harrow,Not recorded,HA1 2JG,Not recorded,,,10059034.0
@@ -2379,7 +2379,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 3543,TR01949,ISLE EDUCATION TRUST,7814150.0,6,Multi-academy trust,,,2011-10-18,OPEN,Open,South Axholme Academy Burnham Road,Epworth,,Doncaster,Not recorded,DN9 1BY,Not recorded,,,10059379.0
 3544,TR01156,ISLE OF PORTLAND ALDRIDGE COMMUNITY ACADEMY TRUST,7927423.0,10,Single-academy trust,2018-11-06,,2012-01-27,CLOSED,Closed,Maritime House,Southwell Business Park,,Portland,Not recorded,DT5 2NA,Not recorded,,,
 3545,TR01157,ISLEWORTH AND SYON SCHOOL FOR BOYS,7962216.0,10,Single-academy trust,,,2012-02-23,OPEN,Open,Isleworth And Syon School For Boys,Ridgeway Road,,Isleworth,Not recorded,TW7 5LJ,Not recorded,,,10059621.0
-3546,TR01158,IVANHOE COLLEGE,8100518.0,10,Single-academy trust,,,2012-06-11,OPEN,Open,Ivanhoe College,North Street,,Ashby-De-La-Zouch,Not recorded,LE65 1HX,Not recorded,,,10059835.0
+3546,TR01158,IVANHOE COLLEGE,8100518.0,10,Single-academy trust,2022-05-17,,2012-06-11,CLOSED,Closed,Ivanhoe College,North Street,,Ashby-De-La-Zouch,Not recorded,LE65 1HX,Not recorded,,,10059835.0
 3547,TR01159,WESTCOUNTRY SCHOOLS TRUST,7398467.0,6,Multi-academy trust,,,2010-10-06,OPEN,Open,Ivybridge Community College,Harford Road,,Ivybridge,Not recorded,PL21 0JA,Not recorded,,,10057945.0
 3548,SP00965,Westcountry Schools Trust,,5,School sponsor,,2013-12-05,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 3549,SP00285,Jack Petchey,,5,School sponsor,,2006-09-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
@@ -2427,7 +2427,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 3595,SP00019,Kent Catholic Schools' Partnership,,5,School sponsor,,2010-01-05,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 3596,SP00295,Kent County Council,,5,School sponsor,,1900-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 3597,SP00296,Kenton School,,5,School sponsor,,1900-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-3598,TR01198,KENTON SCHOOLS ACADEMY TRUST,7964133.0,6,Multi-academy trust,,,2012-02-24,OPEN,Open,Kenton School Newcastle,Drayton Road,,Newcastle Upon Tyne,Not recorded,NE3 3RU,Not recorded,,,10059625.0
+3598,TR01198,NORTHERN LEADERS TRUST,7964133.0,6,Multi-academy trust,,,2012-02-24,OPEN,Open,Kenton School Newcastle,Drayton Road,,Newcastle Upon Tyne,Not recorded,NE3 3RU,Not recorded,,,10059625.0
 3599,TR01199,THE KENTS HILL INFANT ACADEMY TRUST,7705363.0,10,Single-academy trust,2020-01-21,,2011-07-14,CLOSED,Closed,Kents Hill Infant School,Kents Hill Road,,South Benfleet,Not recorded,SS7 5PS,Not recorded,,,10059137.0
 3601,SP00297,Kernow Collaborative Trust,,5,School sponsor,,1900-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 3602,TR01201,KESGRAVE HIGH SCHOOL,7681739.0,10,Single-academy trust,2021-05-04,,2011-06-24,CLOSED,Closed,Kesgrave High School Main Road,Kesgrave,,Ipswich,Not recorded,IP5 2PB,Not recorded,,,10058931.0
@@ -2713,7 +2713,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 3903,SP00352,Methodist Academies and Schools Trust (MAST),,5,School sponsor,,1900-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 3904,TR02922,MICHAELA COMMUNITY SCHOOLS TRUST,7645701.0,10,Single-academy trust,,,2011-05-24,OPEN,Open,Michaela Community School,North End Road,,Wembley,Not recorded,HA9 0UU,Not recorded,,,10058769.0
 3905,,Mid Essex Anglican Academy Trust,,2,Trust,,1900-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-3906,TR02004,MIDDLETON ACADEMY LIMITED,6246929.0,10,Single-academy trust,,,2007-05-14,OPEN,Open,St Anne's Academy Hollin Lane,Middleton,,Manchester,Not recorded,M24 6XN,Not recorded,,,10058216.0
+3906,TR02004,MIDDLETON ACADEMY LIMITED,6246929.0,10,Single-academy trust,2022-05-10,,2007-05-14,CLOSED,Closed,St Anne's Academy Hollin Lane,Middleton,,Manchester,Not recorded,M24 6XN,Not recorded,,,10058216.0
 3907,TR02637,MIDDLETON PRIMARY SCHOOL,8922305.0,10,Single-academy trust,2018-01-23,,2014-03-04,CLOSED,Closed,Middleton Primary School,Noon Layer Drive,,Middleton,Not recorded,MK10 9EN,Not recorded,,,
 3908,TR01434,THE MIDLAND ACADEMIES TRUST,7191874.0,6,Multi-academy trust,,,2010-03-16,OPEN,Open,North Warwickshire Andsouth Leicestershire College,Hinckley Road,,Nuneaton,Not recorded,CV11 6BH,Not recorded,,,10058296.0
 3909,SP00807,Midsomer Norton Schools Partnership,,5,School sponsor,,2013-08-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
@@ -2823,7 +2823,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 4021,SP00741,The Hart Schools Trust Ltd,,5,School sponsor,,2013-01-03,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 4022,TR01521,NORTH KESTEVEN ACADEMY,7657605.0,10,Single-academy trust,,,2011-06-03,OPEN,Open,North Kesteven School Moor Lane,North Hykeham,,Lincoln,Not recorded,LN6 9AG,Not recorded,,,10058833.0
 4023,SP01055,North Norfolk Academy Trust,,5,School sponsor,,2013-11-29,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-4024,TR01905,NORTH NORFOLK ACADEMY TRUST,7800153.0,6,Multi-academy trust,,,2011-10-06,OPEN,Open,Sheringham High School,Holt Road,,Sheringham,Not recorded,NR26 8ND,Dr,Andrew,Richardson,10059347.0
+4024,TR01905,NORTH NORFOLK ACADEMY TRUST,7800153.0,6,Multi-academy trust,2022-05-03,,2011-10-06,CLOSED,Closed,Sheringham High School,Holt Road,,Sheringham,Not recorded,NR26 8ND,Not recorded,,,10059347.0
 4025,TR01522,NORTH TOWN ACADEMY TRUST,7697356.0,10,Single-academy trust,2019-10-29,,2011-07-07,CLOSED,Closed,North Town Primary School,Staplegrove Road,,Taunton,Not recorded,TA1 1DF,Not recorded,,,
 4026,SP00381,North Tyneside Academy Foundation,,5,School sponsor,,2012-02-08,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 4027,TR02894,NORTH VIEW ACADEMY,9077521.0,10,Single-academy trust,2019-10-01,,2014-06-09,CLOSED,Closed,North View Academy,St. Luke's Road,,Sunderland,Not recorded,SR4 0HB,Not recorded,,,
@@ -3047,7 +3047,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 4268,TR01699,QE ACADEMY TRUST,7562194.0,10,Single-academy trust,,,2011-03-14,OPEN,Open,Upper School,Western Road,,Crediton,Not recorded,EX17 3LU,Not recorded,,,10058639.0
 4269,TR01700,QED ACADEMY TRUST,7493622.0,6,Multi-academy trust,,,2011-01-14,OPEN,Open,Northwood School,Pinner Road,,Northwood,Not recorded,HA6 1QN,Not recorded,,,10058477.0
 4270,TR02901,QEGS BLACKBURN ACADEMY TRUST,,10,Single-academy trust,2021-08-31,,2012-12-14,CLOSED,Closed,Queen Elizabeth's Grammar School,West Park Road,,Blackburn,Not recorded,BB2 6DF,Not recorded,,,10060244.0
-4271,TR01701,QEHC ACADEMY TRUST,7840838.0,10,Single-academy trust,,,2011-11-09,OPEN,Open,Ashfields,Bromyard,,Hereford,Not recorded,HR7 4QS,Not recorded,,,10059421.0
+4271,TR01701,THREE COUNTIES ACADEMY TRUST,7840838.0,10,Single-academy trust,,,2011-11-09,OPEN,Open,Ashfields,Bromyard,,Hereford,Not recorded,HR7 4QS,Not recorded,,,10059421.0
 4273,TR01703,THE QUANTOCK ACADEMY,8767576.0,6,Multi-academy trust,2018-11-13,,2013-11-08,CLOSED,Closed,Danesfield Church Of England School North Road,Williton,,Taunton,Not recorded,TA4 4SW,Not recorded,,,
 4274,TR01704,QUARRYDALE ACADEMY,7891230.0,10,Single-academy trust,,,2011-12-23,OPEN,Open,Quarrydale Academy,Stoneyford Road,,Sutton-In-Ashfield,Not recorded,NG17 2DU,Not recorded,,,10059489.0
 4275,TR01706,QUEEN ELIZABETH GRAMMAR SCHOOL PENRITH,7584063.0,10,Single-academy trust,,,2011-03-30,OPEN,Open,Queen Elizabeth Grammar School,Ullswater Road,,Penrith,Not recorded,CA11 7EG,Not recorded,,,10058670.0
@@ -3126,12 +3126,12 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 4359,TR01788,RIDGEWAY PRIMARY ACADEMY,8041206.0,10,Single-academy trust,2017-08-29,,2012-04-23,CLOSED,Closed,Ridgeway Primary Academy,The Ridgeway,,Market Harborough,Not recorded,LE16 7HQ,Not recorded,,,
 4360,TR01789,PLYMPTON ACADEMY,7561356.0,10,Single-academy trust,,,2011-03-11,OPEN,Open,Plympton Academy Moorland Road,Plympton,,Plymouth,Not recorded,PL7 2RS,Not recorded,,,10058636.0
 4361,TR01791,THE RIDINGS' FEDERATION OF ACADEMIES,6802948.0,6,Multi-academy trust,2018-12-11,,2009-01-27,CLOSED,Closed,Winterbourne International Academy High Street,Winterbourne,,Bristol,Not recorded,BS36 1JL,Not recorded,,,
-4362,TR00718,BOUDICA SCHOOLS TRUST,8282834.0,6,Multi-academy trust,,,2012-11-06,OPEN,Open,Boudica Schools Trust Sewell Park Academy,St Clements Hill,,Norwich,Not recorded,NR3 4BX,Not recorded,,,10060158.0
+4362,TR00718,BROAD HORIZONS EDUCATION TRUST,8282834.0,6,Multi-academy trust,,,2012-11-06,OPEN,Open,Boudica Schools Trust Sewell Park Academy,St Clements Hill,,Norwich,Not recorded,NR3 4BX,Not recorded,,,10060158.0
 4363,TR01792,JEWISH COMMUNITY ACADEMY TRUST,,10,Single-academy trust,2019-03-01,,2011-05-23,CLOSED,Closed,154 Chase Road,,,London,Not recorded,N14 4LG,Not recorded,,,
 4364,TR01793,RINGMER COMMUNITY COLLEGE ACADEMY TRUST,7678672.0,10,Single-academy trust,2018-05-15,,2011-06-22,CLOSED,Closed,,Lewes Road,,Ringmer,Not recorded,BN8 5RB,Not recorded,,,
 4365,TR01794,RINGWOOD SCHOOL,7552519.0,6,Multi-academy trust,,,2011-03-04,OPEN,Open,Ringwood School,Parsonage Barn Lane,,Ringwood,Not recorded,BH24 1SE,Not recorded,,,10058581.0
 4367,SP01357,Rise Park Academy Trust,,5,School sponsor,,2014-03-11,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-4368,TR02710,RISE PARK ACADEMY TRUST,9051179.0,6,Multi-academy trust,,,2014-05-21,OPEN,Open,Rise Park Infant School Annan Way,Rise Park,,Romford,Not recorded,RM1 4UD,Not recorded,,,10060806.0
+4368,TR02710,RISE PARK ACADEMY TRUST,9051179.0,6,Multi-academy trust,2022-04-26,,2014-05-21,CLOSED,Closed,Rise Park Infant School Annan Way,Rise Park,,Romford,Not recorded,RM1 4UD,Not recorded,,,10060806.0
 4369,TR02978,THE RIVERS C OF E MULTI ACADEMY TRUST,9199371.0,6,Multi-academy trust,,,2014-09-02,OPEN,Open,Cutnall Green Cofe First School School Lane,Cutnall Green,,Droitwich,Not recorded,WR9 0PH,Not recorded,,,10057359.0
 4370,TR01796,RIVERSIDE PRIMARY ACADEMY,8104080.0,10,Single-academy trust,,,2012-06-13,OPEN,Open,Riverside Primary Academy Colliery Road,Dunston,,Gateshead,Not recorded,NE11 9DX,Not recorded,,,10059841.0
 4371,SP00434,RNIB Pears Centre for Specialist Learning,,5,School sponsor,,2013-03-14,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
@@ -3306,7 +3306,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 4563,TR01952,SOUTH CHARNWOOD HIGH SCHOOL,8423539.0,10,Single-academy trust,,,2013-02-28,OPEN,Open,South Charnwood High School,Broad Lane,,Markfield,Not recorded,LE67 9TB,Not recorded,,,10060337.0
 4564,UT00015,South Cheshire Catholic Multi-Academy Trust,,7,Umbrella trust,,1900-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 4566,TR01954,SOUTH CRAVEN ACADEMY TRUST,7591948.0,10,Single-academy trust,,,2011-04-05,OPEN,Open,South Craven School Holme Lane,Cross Hills,,Keighley,Not recorded,BD20 7RL,Not recorded,,,10058679.0
-4567,TR01955,SOUTH DARTMOOR ACADEMY,7561204.0,6,Multi-academy trust,,,2011-03-11,OPEN,Open,South Dartmoor Community College,Balland Lane,,Ashburton,Not recorded,TQ13 7EW,Not recorded,,,10058632.0
+4567,TR01955,SOUTH DARTMOOR ACADEMY,7561204.0,6,Multi-academy trust,2022-03-29,,2011-03-11,CLOSED,Closed,South Dartmoor Community College,Balland Lane,,Ashburton,Not recorded,TQ13 7EW,Not recorded,,,10058632.0
 4568,SP00892,South East Essex Academy Trust,,5,School sponsor,,2013-05-16,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 4569,TR02448,SOUTH EAST ESSEX ACADEMY TRUST,7527304.0,6,Multi-academy trust,,,2011-02-11,OPEN,Open,Westcliff High School For Girls,Kenilworth Gardens,,Westcliff-On-Sea,Not recorded,SS0 0BS,Not recorded,,,10058517.0
 4570,SP00789,South Essex Academy Trust,,5,School sponsor,,2013-10-31,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
@@ -3479,7 +3479,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 4751,TR02115,"ST MARY'S CE ACADEMY, CHESHUNT",7999861.0,10,Single-academy trust,,,2012-03-21,OPEN,Open,"St Mary's Ce Academy, Cheshunt",Lieutenant Ellis Way,,Cheshunt,Not recorded,EN7 5FB,Not recorded,,,10059715.0
 4752,TR02116,ST MARY'S CHURCH OF ENGLAND ACADEMY TRUST,7733363.0,10,Single-academy trust,,,2011-08-09,OPEN,Open,Trinity Avenue,Mildenhall,,Bury St Edmunds,Not recorded,IP28 7LR,Not recorded,,,10059248.0
 4753,TR02117,"ST MARY'S CHURCH OF ENGLAND ACADEMY, STOTFOLD",7999942.0,10,Single-academy trust,,,2012-03-21,OPEN,Open,St. Marys C Of E Academy Rook Tree Lane,Stotfold,,Hitchin,Not recorded,SG5 4DL,Not recorded,,,10059716.0
-4754,TR02118,ST MARY'S CHURCH OF ENGLAND JUNIOR SCHOOL,7716911.0,10,Single-academy trust,,,2011-07-25,OPEN,Open,St Mary's Church Of England Junior School Swan Lane,Long Stratton,,Norwich,Not recorded,NR15 2UY,Not recorded,,,10059180.0
+4754,TR02118,ST MARY'S CHURCH OF ENGLAND JUNIOR SCHOOL,7716911.0,10,Single-academy trust,,,2011-07-25,OPEN,Open,Orchard Barn Mattishall Road,East Tuddenham,,Dereham,Not recorded,NR20 3LR,Not recorded,,,10059180.0
 4755,TR02119,ST MARY'S CHURCH OF ENGLAND PRIMARY ACADEMY,8441458.0,10,Single-academy trust,2021-01-12,,2013-03-12,CLOSED,Closed,St Mary's Church Of England Primary Academy,High Street,,Burton Latimer,Not recorded,NN15 5RL,Not recorded,,,10060373.0
 4756,TR02120,"ST MARY'S CHURCH OF ENGLAND PRIMARY ACADEMY, DILWYN",7745424.0,10,Single-academy trust,,,2011-08-18,OPEN,Open,St Mary's C Of E Primary Academy,Dilwyn,,Hereford,Not recorded,HR4 8HR,Not recorded,,,10059282.0
 4757,TR02927,"ST MARY'S CHURCH OF ENGLAND SCHOOL, NORWOOD GREEN",8333406.0,10,Single-academy trust,,,2012-12-17,OPEN,Open,London Diocesan Board For Schools London Diocesan House,36 Causton Street,,London,Not recorded,SW1P 4AU,Not recorded,,,10060249.0
@@ -3630,7 +3630,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 4911,TR02249,TEESDALE EDUCATION TRUST,7680893.0,10,Single-academy trust,2017-11-28,,2011-06-23,CLOSED,Closed,Teesdale Education Trust,Prospect Place,,Barnard Castle,Not recorded,DL12 8HH,Not recorded,,,
 4913,TR02251,TEESSIDE UNIVERSITY TRUST FOR ACADEMIES (ACADEMY FOR THORNABY),7182771.0,10,Single-academy trust,2017-10-03,,2010-03-09,CLOSED,Closed,Legal Services,Borough Road,,Middlesbrough,Not recorded,TS1 3BA,Not recorded,,,
 4914,SP00610,Teesside University,,5,School sponsor,,1900-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-4915,TR02252,OSPREY LEARNING TRUST,7519888.0,6,Multi-academy trust,,,2011-02-07,OPEN,Open,Teignmouth Community School,Exeter Road,,Teignmouth,Not recorded,TQ14 9HZ,Not recorded,,,10058495.0
+4915,TR02252,IVY EDUCATION TRUST,7519888.0,6,Multi-academy trust,,,2011-02-07,OPEN,Open,Teignmouth Community School,Exeter Road,,Teignmouth,Not recorded,TQ14 9HZ,Not recorded,,,10058495.0
 4916,TR02253,TELFORD CO-OPERATIVE MULTI ACADEMY TRUST,8447216.0,6,Multi-academy trust,2015-08-31,,2013-03-15,CLOSED,Closed,The Telford Priory School New Road,Wrockwardine Wood,,Telford,Not recorded,TF2 7AB,Not recorded,,,
 4917,TR02254,TEMPLE EWELL CHURCH OF ENGLAND PRIMARY SCHOOL,8574691.0,10,Single-academy trust,2018-01-23,,2013-06-18,CLOSED,Closed,Temple Ewell Church Of England Primary School 3-4 Brookside,Temple Ewell,,Dover,Not recorded,CT16 3DT,Not recorded,,,
 4918,TR02255,TEMPLE GROVE ACADEMY TRUST,8309965.0,10,Single-academy trust,,,2012-11-27,OPEN,Open,Delphine Malka Temple Grove Academy,Friars Way,,Tunbridge Wells,Not recorded,TN2 3UA,Not recorded,,,10060201.0
@@ -3666,7 +3666,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 4948,UT00009,The Consortium of Community Trusts,,7,Umbrella trust,,1900-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 4949,SP00125,The Co-operative Academies Trust,,5,School sponsor,,2010-09-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 4950,SP00546,The Corsham School,,5,School sponsor,,2012-05-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-4951,TR02608,THE CRABTREE ACADEMY TRUST,8782792.0,6,Multi-academy trust,,,2013-11-20,OPEN,Open,Crabtree Infants' School,Crabtree Lane,,Harpenden,Not recorded,AL5 5PU,Not recorded,,,10060675.0
+4951,TR02608,THE CRABTREE ACADEMY TRUST,8782792.0,6,Multi-academy trust,2022-05-03,,2013-11-20,CLOSED,Closed,Crabtree Infants' School,Crabtree Lane,,Harpenden,Not recorded,AL5 5PU,Not recorded,,,10060675.0
 4952,SP00635,The Dean Trust,,5,School sponsor,,2012-03-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 4953,SP00355,The Diamond Learning Partnership Trust,,5,School sponsor,,2012-03-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 4954,TR02263,THE DIOCESE OF CHELMSFORD SOWER SCHOOLS TRUST,8709656.0,6,Multi-academy trust,2017-11-07,,2013-09-27,CLOSED,Closed,53 New Street,,,Chelmsford,Not recorded,CM1 1AT,Not recorded,,,
@@ -3723,7 +3723,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 5008,SP00564,The Priory School,,5,School sponsor,,1900-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 5009,SP00001,The Propeller Academy Trust,,5,School sponsor,,2012-03-08,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 5010,SP00964,Delta Education Trust,,5,School sponsor,,2014-02-05,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-5011,TR01714,THE QUEEN KATHERINE SCHOOL MULTI ACADEMY TRUST,7472799.0,6,Multi-academy trust,,,2010-12-17,OPEN,Open,The Queen Katherine School,Appleby Road,,Kendal,Not recorded,LA9 6PJ,Not recorded,,,10055361.0
+5011,TR01714,THE FELLS MULTI ACADEMY TRUST,7472799.0,6,Multi-academy trust,,,2010-12-17,OPEN,Open,The Queen Katherine School,Appleby Road,,Kendal,Not recorded,LA9 6PJ,Not recorded,,,10055361.0
 5012,SP00670,The Queen Katherine School Multi Academy Trust,,5,School sponsor,,2013-03-21,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 5013,TR02610,THE RAINBOW MULTI ACADEMY TRUST,8909269.0,6,Multi-academy trust,,,2014-02-24,OPEN,Open,Unit 7 King Edward Mine,Troon,,Camborne,Not recorded,TR14 9HW,Not recorded,,,10060738.0
 5014,SP00830,The Raleigh School,,5,School sponsor,,1900-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
@@ -3978,7 +3978,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 5288,TR02446,WESTBURY-ON-TRYM CHURCH OF ENGLAND ACADEMY,7669263.0,10,Single-academy trust,,,2011-06-14,OPEN,Open,Westbury-On-Trym Church Of England Academy Channells Hill,Westbury-On-Trym,,Bristol,Not recorded,BS9 3HZ,Not recorded,,,10058890.0
 5289,TR02447,WESTCLIFF HIGH SCHOOL FOR BOYS LIMITED,7347930.0,10,Single-academy trust,,,2010-08-17,OPEN,Open,,Kenilworth Gardens,,Westcliff On Sea,Not recorded,SS0 0BP,Not recorded,,,10058340.0
 5291,TR02450,WESTFIELD ACADEMY,8526440.0,10,Single-academy trust,,,2013-05-13,OPEN,Open,Westfield Academy,Tolpits Lane,,Watford,Not recorded,WD18 6NS,Not recorded,,,10060447.0
-5292,TR02451,WESTFIELD ACADEMY TRUST,7664348.0,10,Single-academy trust,,,2011-06-09,OPEN,Open,Westfield Academy,Stiby Road,,Yeovil,Not recorded,BA21 3EP,Not recorded,,,10058873.0
+5292,TR02451,WESTFIELD ACADEMY TRUST,7664348.0,10,Single-academy trust,,,2011-06-09,OPEN,Open,Westfield Academy Trust Stiby Road,Yeovil,,Somerset,Not recorded,BA21 3EP,Not recorded,,,10058873.0
 5293,TR02452,WESTGATE ACADEMY LTD,7669751.0,10,Single-academy trust,,,2011-06-14,OPEN,Open,Westgate Academy,Westgate,,Lincoln,Not recorded,LN1 3BQ,Not recorded,,,10058893.0
 5294,TR02453,WESTLEA PRIMARY SCHOOL,8713214.0,10,Single-academy trust,,,2013-10-01,OPEN,Open,Langstone Way,Westlea,,Swindon,Not recorded,SN5 7BT,Not recorded,,,10060619.0
 5295,TR02454,THE WESTMINSTER ACADEMY (WESTBOURNE GREEN),5102934.0,10,Single-academy trust,,,2004-04-15,OPEN,Open,Sir Naim Dangoor Centre,255 Harrow Road,,London,Not recorded,W2 5EZ,Not recorded,,,10058181.0
@@ -4285,7 +4285,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 5617,TR03102,LEARNING FOR LIFE EDUCATION TRUST,9470229.0,6,Multi-academy trust,,,2015-03-04,OPEN,Open,Irthlingborough Junior School College Street,Irthlingborough,,Wellingborough,Not recorded,NN9 5TX,Not recorded,,,10060959.0
 5618,TR03097,PRESTOLEE MULTI ACADEMY TRUST,9481323.0,6,Multi-academy trust,,,2015-03-10,OPEN,Open,Prestolee Primary School Church Road,"Stoneclough, Radcliffe",,Manchester,Not recorded,M26 1HJ,Not recorded,,,10055218.0
 5619,TR03103,THE SHIRE MULTI ACADEMY TRUST,9454169.0,6,Multi-academy trust,2020-12-01,,2015-02-23,CLOSED,Closed,Sandhill Primary School Dearne Street,Great Houghton,,Barnsley,Not recorded,S72 0EQ,Not recorded,,,10060955.0
-5620,TR03166,ST CATHERINE OF SIENA MULTI ACADEMY COMPANY,9497062.0,6,Multi-academy trust,,,2015-03-18,OPEN,Open,Our Lady And St Huberts Catholic Primary School,Moat Road,,Oldbury,Not recorded,B68 8ED,Not recorded,,,10060970.0
+5620,TR03166,ST CATHERINE OF SIENA MULTI ACADEMY COMPANY,9497062.0,6,Multi-academy trust,2022-05-10,,2015-03-18,CLOSED,Closed,Our Lady And St Huberts Catholic Primary School,Moat Road,,Oldbury,Not recorded,B68 8ED,Not recorded,,,10060970.0
 5621,TR03090,OUR LADY OF GRACE CATHOLIC ACADEMY TRUST,9435396.0,6,Multi-academy trust,,,2015-02-12,OPEN,Open,St Helen's Catholic Primary School,Chargeable Lane,,London,Not recorded,E13 8DW,Not recorded,,,10060943.0
 5622,TR03123,ARETÉ LEARNING TRUST,9471240.0,6,Multi-academy trust,,,2015-03-04,OPEN,Open,Stokesley School,Station Road,,Stokesley,Not recorded,TS9 5AL,Not recorded,,,10060960.0
 5623,TR03167,BRAMBLESIDE ACADEMY TRUST,9212934.0,10,Single-academy trust,,,2014-09-10,OPEN,Open,Brambleside Academy Trust,Cleveland Avenue,,Kettering,Not recorded,NN16 9NZ,Not recorded,,,10060874.0
@@ -4362,10 +4362,10 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 5699,,"Hope, Worthen, Westbury Trinity",,1,Federation,2017-09-01,2016-05-03,,CLOSED,Closed,,,,,Not recorded,,Mrs,Jane,Gill,
 5700,,The Weald Federation,,1,Federation,,2019-09-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 5701,,Otley and Witnesham Federated Primary Schools,,1,Federation,,2014-04-01,,OPEN,Open,,,,,Not recorded,,Mrs,Jeanette,Hubbard-Whitehead,
-5702,TR02857,SATURN EDUCATION TRUST,9578698.0,6,Multi-academy trust,,,2015-05-07,OPEN,Open,Corfe Castle Ce Primary School East Street,Corfe Castle,,Wareham,Not recorded,BH20 5EE,Not recorded,,,10060974.0
+5702,TR02857,SATURN EDUCATION TRUST,9578698.0,6,Multi-academy trust,,,2015-05-07,OPEN,Open,Heathlands Primary Academy,Andrews Close,,Bournemouth,Not recorded,BH11 8HB,Not recorded,,,10060974.0
 5703,TR03187,THE OAK ACADEMY TRUST,9604912.0,10,Single-academy trust,,,2015-05-22,OPEN,Open,Barnham Primary School Elm Grove,Barnham,,Bognor Regis,Not recorded,PO22 0HW,Not recorded,,,10060977.0
 5704,TR03241,MAYFLOWER SPECIALIST SCHOOL ACADEMY TRUST,9610951.0,6,Multi-academy trust,,,2015-05-27,OPEN,Open,Warren Wood - A Specialist Academy,Middlefield Lane,,Gainsborough,Not recorded,DN21 1PU,Not recorded,,,10060978.0
-5705,TR03200,TRUSTED SCHOOLS' PARTNERSHIP,9617166.0,6,Multi-academy trust,,,2015-06-01,OPEN,Open,C/O Oldbury Wells School,Oldbury Wells,,Bridgnorth,Not recorded,WV16 5JD,Not recorded,,,10060981.0
+5705,TR03200,TRUSTED CSAT ALLIANCE,9617166.0,6,Multi-academy trust,,,2015-06-01,OPEN,Open,C/O Oldbury Wells School,Oldbury Wells,,Bridgnorth,Not recorded,WV16 5JD,Not recorded,,,10060981.0
 5707,TR03142,ST JOSEPH'S CATHOLIC PRIMARY VOLUNTARY ACADEMY RETFORD,9622777.0,10,Single-academy trust,,,2015-06-04,OPEN,Open,St Joseph's Catholic Primary School,Babworth Road,,Retford,Not recorded,DN22 7BP,Not recorded,,,10060984.0
 5708,TR03182,COASTAL LEARNING PARTNERSHIP,9628750.0,6,Multi-academy trust,,,2015-06-08,OPEN,Open,Heathlands Primary Academy Andrews Close,Springwater Road,,Bournemouth,Not recorded,BH11 8HB,Not recorded,,,10060987.0
 5709,TR03067,SALOPIA CATHOLIC SCHOOLS TRUST,9646093.0,6,Multi-academy trust,,,2015-06-18,OPEN,Open,Diocese Of Shrewsbury Curial Offices,2 Park Road South,,Prenton,Not recorded,CH43 4UX,Not recorded,,,10060993.0
@@ -4479,7 +4479,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 15809,TR03253,DERBY MANUFACTURING UTC,8289534.0,10,Single-academy trust,2021-05-11,,2012-11-12,CLOSED,Closed,Derby Manufacturing Utc 3 Locomotive Way,Pride Park,,Derby,Not recorded,DE24 8PU,Not recorded,,,10060169.0
 15810,TR03259,UTC@HARBOURSIDE,8291429.0,10,Single-academy trust,2021-08-17,,2012-11-13,CLOSED,Closed,Boundary House Shr,91 Charter House Street,,London,Not recorded,EC1M 6HR,Not recorded,,,10060173.0
 15811,TR03286,BOLTON UTC,8292380.0,10,Single-academy trust,2021-10-05,,2012-11-13,CLOSED,Closed,Senate House,Deane Road,,Bolton,Not recorded,BL3 5AB,Not recorded,,,10060179.0
-15812,TR03255,SOUTH DEVON UTC,8293776.0,10,Single-academy trust,,,2012-11-14,OPEN,Open,South Devon Utc,Kingsteignton Road,,Newton Abbot,Not recorded,TQ12 2QA,Not recorded,,,10060181.0
+15812,TR03255,SOUTH DEVON UTC,8293776.0,10,Single-academy trust,2022-04-19,,2012-11-14,CLOSED,Closed,South Devon Utc,Kingsteignton Road,,Newton Abbot,Not recorded,TQ12 2QA,Not recorded,,,10060181.0
 15813,TR03298,PLYMOUTH STUDIO SCHOOL,8318068.0,10,Single-academy trust,2020-09-22,,2012-12-04,CLOSED,Closed,City College Plymouth Kings Road,Devonport,,Plymouth,Not recorded,PL1 5QG,Not recorded,,,10060218.0
 15814,TR03361,UTC OXFORDSHIRE TRUST,8296556.0,10,Single-academy trust,2018-10-16,,2012-11-16,CLOSED,Closed,Activate Learning,Oxpens Road,,Oxford,Not recorded,OX1 1SA,Not recorded,,,
 15815,TR03274,KINGSTON EDUCATIONAL TRUST,,10,Single-academy trust,2021-12-31,,2012-12-17,CLOSED,Closed,The Kingston Academy,Richmond Road,,Kingston Upon Thames,Not recorded,KT2 5PE,Not recorded,,,10060253.0
@@ -4680,7 +4680,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 16012,TR03228,MID-TRENT MULTI ACADEMY TRUST,9878928.0,6,Multi-academy trust,,,2015-11-18,OPEN,Open,,Main Road,,Colwich,Not recorded,ST17 0XD,Not recorded,,,10061046.0
 16013,TR03359,BISHOP CHADWICK CATHOLIC EDUCATION TRUST,9940352.0,6,Multi-academy trust,,,2016-01-07,OPEN,Open,Evolve Centre,Cygnet Way,,Houghton Le Spring,Not recorded,DH4 5QY,Not recorded,,,10061060.0
 16014,TR03326,"ST THOMAS MORE CATHOLIC PRIMARY, A VOLUNTARY ACADEMY",9888339.0,10,Single-academy trust,,,2015-11-25,OPEN,Open,Creswick Lane,Grenoside,,Sheffield,Not recorded,S35 8NN,Not recorded,,,10061049.0
-16015,TR03174,ABNEY TRUST,9912859.0,6,Multi-academy trust,,,2015-12-11,OPEN,Open,The Kingsway School,Foxland Road,,Cheadle,Not recorded,SK8 4QX,Not recorded,,,10061056.0
+16015,TR03174,ABNEY TRUST,9912859.0,6,Multi-academy trust,2022-05-31,,2015-12-11,CLOSED,Closed,The Kingsway School,Foxland Road,,Cheadle,Not recorded,SK8 4QX,Not recorded,,,10061056.0
 16016,TR03227,THE BLUE KITE ACADEMY TRUST,9889819.0,6,Multi-academy trust,,,2015-11-26,OPEN,Open,,Wiltshire Avenue,,Swindon,Not recorded,SN2 1NX,Not recorded,,,10061050.0
 16017,SP01604,The Blue Kite Academy Trust,,5,School sponsor,,2015-10-12,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 16018,TR03441,WINTON PRIMARY SCHOOL,9903139.0,10,Single-academy trust,,,2015-12-04,OPEN,Open,Winton Primary School,Oswald Road,,Bournemouth,Not recorded,BH9 2TG,Not recorded,,,10061055.0
@@ -4695,7 +4695,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 16027,TR02006,ST. ANSELM'S COLLEGE EDMUND RICE ACADEMY TRUST,7638417.0,10,Single-academy trust,,,2011-05-18,OPEN,Open,St Anselm's College,Manor Hill,,Birkenhead,Not recorded,CH43 1UQ,Not recorded,,,10058748.0
 16028,TR02281,WESSEX MULTI ACADEMY TRUST,7677838.0,6,Multi-academy trust,,,2011-06-21,OPEN,Open,Queens Avenue,,,Dorchester,Not recorded,DT1 2ET,Not recorded,,,10058920.0
 16029,TR01440,MILLFIELD COMMUNITY ACADEMY TRUST,7705438.0,6,Multi-academy trust,2019-10-15,,2011-07-14,CLOSED,Closed,Mill Lane,Heighington,,Lincoln,Not recorded,LN4 1RQ,Not recorded,,,
-16030,TR01729,RMET,7654628.0,6,Multi-academy trust,,,2011-06-01,OPEN,Open,Rainham Mark Grammar School,Pump Lane,,Gillingham,Not recorded,ME8 7AJ,Not recorded,,,10058817.0
+16030,TR01729,RMET,7654628.0,6,Multi-academy trust,,,2011-06-01,OPEN,Open,Rmet Trust Office - Twydall Primary School,Twydall Lane,,Gillingham,Not recorded,ME8 6JS,Not recorded,,,10058817.0
 16031,TR00257,ANGLIAN LEARNING,7564749.0,6,Multi-academy trust,,,2011-03-15,OPEN,Open,Bottisham Village College Lode Road,Bottisham,,Cambridge,Not recorded,CB25 9DL,Not recorded,,,10058649.0
 16032,TR01684,MIGHTY OAKS ACADEMY TRUST LTD,7481145.0,6,Multi-academy trust,,,2011-01-04,OPEN,Open,Priorslee Primary School Priorslee Avenue,Priorslee,,Telford,Not recorded,TF2 9RS,Not recorded,,,10058459.0
 16033,TR00326,BROOKE HILL ACADEMY TRUST LIMITED,7693338.0,6,Multi-academy trust,,,2011-07-05,OPEN,Open,Brooke Hill Academy,Brooke Road,,Oakham,Not recorded,LE15 6HQ,Not recorded,,,10058999.0
@@ -4799,7 +4799,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 16134,,Emneth Federation,,1,Federation,2017-03-31,2015-05-01,,CLOSED,Closed,,,,,Not recorded,,Mrs,Alison,Townsend,
 16135,,The Weald Federation,,1,Federation,,2019-09-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 16136,The Ryedale Federation,The Ryedale Federation,,1,Federation,,2016-07-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-16137,TR00275,BRADFIELD SCHOOL,8265058.0,10,Single-academy trust,,,2012-10-23,OPEN,Open,Bradfield School Kirk Edge Road,Worrall,,Sheffield,Not recorded,S35 0AE,Not recorded,,,10060138.0
+16137,TR00275,BRADFIELD SCHOOL,8265058.0,10,Single-academy trust,,,2012-10-23,OPEN,Open,New Chartford House,Centurion Way,,Cleckheaton,Not recorded,BD19 3QB,Not recorded,,,10060138.0
 16138,,Aylsham Learning Federation,,1,Federation,,2016-07-11,,OPEN,Open,,,,,Not recorded,,Mr,Duncan,Spalding,
 16139,TR01483,CAVENDISH LEARNING TRUST,7935515.0,6,Multi-academy trust,,,2012-02-03,OPEN,Open,Netherthorpe School Netherthorpe,Staveley,,Chesterfield,Not recorded,S43 3PU,Not recorded,,,10059558.0
 16140,TR02443,WESTBOURNE ACADEMY TRUST,7626526.0,6,Multi-academy trust,,,2011-05-09,OPEN,Open,Westbourne Primary School Anton Crescent,Collingwood Road,,Sutton,Not recorded,SM1 2NT,Not recorded,,,10058715.0
@@ -4963,7 +4963,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 16300,TR03473,CONNECT ACADEMY TRUST,10192252.0,6,Multi-academy trust,,,2016-05-20,OPEN,Open,Leigham Primary School Cockington Close,Leigham,,Plymouth,Not recorded,PL6 8RF,Not recorded,,,10064173.0
 16301,TR03086,INTERACTION AND COMMUNICATION ACADEMY TRUST LIMITED,10221189.0,6,Multi-academy trust,,,2016-06-08,OPEN,Open,Castle Hill School Newsome Road South,Newsome,,Huddersfield,Not recorded,HD4 6JL,Not recorded,,,10064195.0
 16302,TR03499,WALTON MULTI-ACADEMY TRUST,10221556.0,6,Multi-academy trust,,,2016-06-08,OPEN,Open,Walton High School The Rise,Walton On The Hill,,Stafford,Not recorded,ST17 0LJ,Not recorded,,,10064320.0
-16303,TR03527,LAKES ACADEMIES TRUST,10225813.0,6,Multi-academy trust,,,2016-06-10,OPEN,Open,C/O Water Hall Primary School Fern Grove,Bletchley,,Milton Keynes,Not recorded,MK2 3QF,Not recorded,,,10064225.0
+16303,TR03527,LAKES ACADEMIES TRUST,10225813.0,6,Multi-academy trust,2022-04-26,,2016-06-10,CLOSED,Closed,C/O Water Hall Primary School Fern Grove,Bletchley,,Milton Keynes,Not recorded,MK2 3QF,Not recorded,,,10064225.0
 16304,SP01834,Lakes Academies Trust,,5,School sponsor,,2016-04-27,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 16305,TR03483,NEW HORIZONS ACADEMY TRUST,10228490.0,6,Multi-academy trust,,,2016-06-13,OPEN,Open,Seaside Primary School,Freshbrook Road,,Lancing,Not recorded,BN15 8DL,Not recorded,,,10064235.0
 16306,TR03545,ARBOR ACADEMY TRUST,10234376.0,6,Multi-academy trust,,,2016-06-16,OPEN,Open,Davies Lane Primary School Davies Lane,Leytonstone,,London,Not recorded,E11 3DR,Not recorded,,,10064188.0
@@ -4976,13 +4976,13 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 16313,TR03530,COAST AND VALE LEARNING TRUST,10265276.0,6,Multi-academy trust,,,2016-07-06,OPEN,Open,Scalby School Fieldstead Crescent,Newby,,Scarborough,Not recorded,YO12 6TH,Not recorded,,,10064251.0
 16314,TR03526,GENESIS ACADEMY TRUST,10277330.0,6,Multi-academy trust,2018-09-11,,2016-07-13,CLOSED,Closed,55 Woolbrook Road,,,Sidmouth,Not recorded,EX10 9XB,Not recorded,,,
 16315,TR03484,EQUALS TRUST,10279606.0,6,Multi-academy trust,,,2016-07-14,OPEN,Open,Keyworth Primary And Nursery School Nottingham Road,Keyworth,,Nottingham,Not recorded,NG12 5FB,Not recorded,,,10064222.0
-16316,TR03338,REAL LIFE LEARNING ACADEMY TRUST,10279924.0,6,Multi-academy trust,,,2016-07-15,OPEN,Open,Acton Ce Primary School Chester Road,Acton,,Nantwich,Not recorded,CW5 8LG,Not recorded,,,10064249.0
+16316,TR03338,REAL LIFE LEARNING ACADEMY TRUST,10279924.0,6,Multi-academy trust,2022-06-07,,2016-07-15,CLOSED,Closed,Acton Ce Primary School Chester Road,Acton,,Nantwich,Not recorded,CW5 8LG,Not recorded,,,10064249.0
 16317,TR03538,THE HILLARY TRUST,10286967.0,6,Multi-academy trust,2018-12-11,,2016-07-19,CLOSED,Closed,"Unit E Mill Street, Nursling Street",Nursling,,Southampton,Not recorded,SO16 0AJ,Not recorded,,,
 16318,TR03529,JOHN MILTON ACADEMY TRUST,10298832.0,6,Multi-academy trust,,,2016-07-27,OPEN,Open,Jmat Centre Church Road,Stowupland,,Stowmarket,Not recorded,IP14 4BQ,Not recorded,,,10064193.0
 16319,TR03496,HADRIAN LEARNING TRUST,10299446.0,6,Multi-academy trust,,,2016-07-27,OPEN,Open,Queen Elizabeth High School,Whetstone Bridge Road,,Hexham,Not recorded,NE46 3JB,Not recorded,,,10064203.0
 16320,TR03517,THE YARE EDUCATION TRUST,10301555.0,6,Multi-academy trust,,,2016-07-28,OPEN,Open,Trust Central Office,Longfields Road,,Norwich,Not recorded,NR7 0NB,Not recorded,,,10064310.0
 16321,TR03520,THE BRIGSHAW LEARNING PARTNERSHIP,10301662.0,6,Multi-academy trust,,,2016-07-28,OPEN,Open,Brigshaw High School,Brigshaw Lane,,Allerton Bywater,Not recorded,WF10 2HR,Not recorded,,,10064283.0
-16322,TR03489,ELT PARTNERSHIP,10309116.0,6,Multi-academy trust,,,2016-08-03,OPEN,Open,Hazelbury Primary School,Haselbury Road,,Edmonton,Not recorded,N9 9TT,Not recorded,,,10064154.0
+16322,TR03489,CONNECT EDUCATION TRUST,10309116.0,6,Multi-academy trust,,,2016-08-03,OPEN,Open,Hazelbury Primary School,Haselbury Road,,Edmonton,Not recorded,N9 9TT,Not recorded,,,10064154.0
 16323,TR03448,EDMONTON ACADEMY TRUST,10311383.0,6,Multi-academy trust,,,2016-08-04,OPEN,Open,Edmonton County School,Great Cambridge Road,,Enfield,Not recorded,EN1 1HQ,Not recorded,,,10064160.0
 16325,SP01912,St. Bartholomews CE Multi Academy Trust,,5,School sponsor,,2016-09-29,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 16326,TR03515,CREATE PARTNERSHIP TRUST,10318212.0,6,Multi-academy trust,,,2016-08-08,OPEN,Open,Create Partnership,Percy Road,,Birmingham,Not recorded,B11 3ND,Not recorded,,,10064170.0
@@ -5057,7 +5057,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 16396,TR03553,LEADING LEARNERS MULTI ACADEMY TRUST,7943227.0,6,Multi-academy trust,,,2012-02-09,OPEN,Open,Ennerdale Road,Astley,,Tyldesley,Not recorded,M29 7PY,Not recorded,,,10059573.0
 16397,SP01780,Learning Without Limits,,5,School sponsor,,2016-06-09,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 16398,,The Wolds and Vale Federation,,1,Federation,,2016-11-01,,OPEN,Open,,,,,Not recorded,,Mrs,Catherine,Matthewman,
-16399,,Hackness and Wykeham Church Schools Federation,,1,Federation,,2016-10-04,,OPEN,Open,,,,,Not recorded,,Mrs,Christine,Wilkinson,
+16399,,Hackness and Wykeham Church of England Schools' Federation,,1,Federation,,2016-10-04,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 16400,TR02139,ST OSWALD'S CHURCH OF ENGLAND ACADEMY,8176968.0,10,Single-academy trust,2020-09-29,,2012-08-13,CLOSED,Closed,St Oswald's Church Of England Academy Silver Birch Grove,Finningley,,Doncaster,Not recorded,DN9 3EQ,Not recorded,,,10060025.0
 16401,TR01924,INSIGNIS ACADEMY TRUST,7657307.0,6,Multi-academy trust,,,2011-06-03,OPEN,Open,Sir Henry Floyd Grammar School,Oxford Road,,Aylesbury,Not recorded,HP21 8PE,Not recorded,,,10058831.0
 16402,TR01146,EASTERN LEARNING ALLIANCE,7899393.0,6,Multi-academy trust,,,2012-01-05,OPEN,Open,Impington Village College New Road,Impington,,Cambridge,Not recorded,CB24 9LX,Not recorded,,,10059505.0
@@ -5291,7 +5291,6 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 16635,TR03556,INCLUSIVE SCHOOLS TRUST,10607038.0,6,Multi-academy trust,,,2017-02-07,OPEN,Open,Lionwood Infant And Nursery School,Telegraph Lane East,,Norwich,Not recorded,NR1 4AN,Not recorded,,,10064197.0
 16636,TR03660,INMAT,10427291.0,6,Multi-academy trust,,,2016-10-13,OPEN,Open,Swan Court Harborough Road,Lamport,,Northampton,Not recorded,NN6 9ER,Not recorded,,,10064196.0
 16637,SP01951,InMAT,,5,School sponsor,,2016-12-09,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-16638,TR0002,Stour Valley Educational Trust Limited,,10,Single-academy trust,,,2010-04-17,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 16639,TR03663,THE CLAXTON TRUST,10461895.0,6,Multi-academy trust,,,2016-11-03,OPEN,Open,The Claxton Trust Fairlands Primary School,Pound Avenue,,Stevenage,Not recorded,SG1 3JA,Not recorded,,,10064285.0
 16640,TR03726,THE RISE PARTNERSHIP TRUST,10027322.0,6,Multi-academy trust,,,2016-02-25,OPEN,Open,C/O Manor School Chamberlayne Road,Kensal Rise,,London,Not recorded,NW10 3NT,Not recorded,,,10064180.0
 16641,TR03699,ORWELL MULTI ACADEMY TRUST,10650092.0,6,Multi-academy trust,,,2017-03-03,OPEN,Open,Orwell Multi Academy Trust Halifax Primary School,Prince Of Wales Drive,,Ipswich,Not recorded,IP2 8PY,Not recorded,,,10064238.0
@@ -5421,7 +5420,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 16769,TR03700,THE ILLUMINARE MULTI ACADEMY TRUST,10859049.0,6,Multi-academy trust,,,2017-07-10,OPEN,Open,Harton Academy,Lisle Road,,South Shields,Not recorded,NE34 6DL,Not recorded,,,10066124.0
 16770,TR03572,PONTELAND ACADEMY TRUST,10314306.0,6,Multi-academy trust,,,2016-08-05,OPEN,Open,Ponteland Community Primary School Callerton Lane,Ponteland,,Newcastle Upon Tyne,Not recorded,NE20 9EY,Not recorded,,,10066110.0
 16771,TR03791,REIGATE LEARNING ALLIANCE,10858221.0,6,Multi-academy trust,,,2017-07-10,OPEN,Open,Reigate College,Castlefield Road,,Reigate,Not recorded,RH2 0SD,Not recorded,,,10066114.0
-16772,TR03115,CREATING TOMORROW MULTI ACADEMY TRUST,9392862.0,6,Multi-academy trust,,,2015-01-16,OPEN,Open,10 Brooklands Court Brooklands Court,Kettering Venture Park,,Kettering,Not recorded,NN15 6FD,Not recorded,,,10060929.0
+16772,TR03115,CREATING TOMORROW MULTI ACADEMY TRUST,9392862.0,6,Multi-academy trust,,,2015-01-16,OPEN,Open,Isebrook School,Eastleigh Road,,Kettering,Not recorded,NN15 6PT,Not recorded,,,10060929.0
 16773,TR03297,THE RICHMOND UPON THAMES SCHOOL TRUST,8836866.0,6,Multi-academy trust,,,2014-01-08,OPEN,Open,Egerton Road,Egerton Road,,Twickenham,Not recorded,TW2 7SL,Not recorded,,,10066126.0
 16774,TR00771,FALMOUTH MAT,7695977.0,6,Multi-academy trust,2021-05-11,,2011-07-06,CLOSED,Closed,Falmouth School,Trescobeas Road,,Falmouth,Not recorded,TR11 4LH,Not recorded,,,10059040.0
 16775,TR03300,SIR SIMON MILTON WESTMINSTER UNIVERSITY TECHNICAL COLLEGE,9264827.0,10,Single-academy trust,,,2014-10-15,OPEN,Open,1 Sutherland Street,,,London,Not recorded,SW1V 4LD,Not recorded,,,10066116.0
@@ -5476,7 +5475,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 16825,,Cornerstone Federation,,1,Federation,,2016-07-14,,OPEN,Open,,,,,Not recorded,,Headteacher,Duncan,Mills,
 16826,TR03804,KING EDWARD VI ACADEMY TRUST BIRMINGHAM,10654935.0,6,Multi-academy trust,,,2017-03-06,OPEN,Open,Foundation Office,Edgbaston Park Road,,Birmingham,Not recorded,B15 2UD,Not recorded,,,10065300.0
 16827,TR01415,HUMBER EDUCATION TRUST,8682547.0,6,Multi-academy trust,,,2013-09-09,OPEN,Open,Bude Park Primary School Cookbury Close,Bransholme,,Hull,Not recorded,HU7 4EY,Not recorded,,,10060594.0
-16828,TR03806,BIRMINGHAM DIOCESAN MULTI-ACADEMY TRUST,10729883.0,6,Multi-academy trust,,,2017-04-19,OPEN,Open,Christ Church Cofe Secondary Academy Dale View Road,Yardley Wood,,Birmingham,Not recorded,B14 4HN,Not recorded,,,10066089.0
+16828,TR03806,BIRMINGHAM DIOCESAN MULTI-ACADEMY TRUST,10729883.0,6,Multi-academy trust,,,2017-04-19,OPEN,Open,"Christ Church, Church Of England Secondary Academy Daleview Road",Yardley Wood,,Birmingham,Not recorded,B14 4HN,Not recorded,,,10066089.0
 16829,TR00324,THE UNIVERSITY OF KENT ACADEMIES TRUST,7185018.0,6,Multi-academy trust,,,2010-03-10,OPEN,Open,Brompton Academy,Marlborough Road,,Gillingham,Not recorded,ME7 5HT,Not recorded,,,10058293.0
 16830,TR01870,THOMAS TELFORD MULTI ACADEMY TRUST,4798185.0,6,Multi-academy trust,,,2003-06-13,OPEN,Open,Thomas Telford School,Old Park,,Telford,Not recorded,TF3 4NW,Not recorded,,,10058173.0
 16831,SP01868,Cambridge Academic Partnership,,5,School sponsor,,2016-07-12,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
@@ -5710,7 +5709,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 17061,TR03461,RED KITE ACADEMY TRUST,10805006.0,10,Single-academy trust,2020-09-22,,2017-06-06,CLOSED,Closed,The Wildlife Trusts The Kiln,Mather Road,,Newark,Not recorded,NG24 1WT,Not recorded,,,10080818.0
 17062,TR03867,SPA EDUCATION TRUST,11425513.0,6,Multi-academy trust,,,2018-06-20,OPEN,Open,Spa School,Monnow Road,,London,Not recorded,SE1 5RN,Not recorded,,,10080819.0
 17063,TR03835,GREAT WESTERN ACADEMY LIMITED,8873553.0,10,Single-academy trust,,,2014-02-03,OPEN,Open,Great Western Academy William Morris Way,Tadpole Garden Village,,Swindon,Not recorded,SN25 2PP,Not recorded,,,10080821.0
-17064,TR03866,GATEWAY NORTH ACADEMY TRUST,10003673.0,10,Single-academy trust,,,2016-02-12,OPEN,Open,Bishop Auckland College,Woodhouse Lane,,Bishop Auckland,Not recorded,DL14 6JZ,Not recorded,,,10080822.0
+17064,TR03866,GATEWAY NORTH ACADEMY TRUST,10003673.0,10,Single-academy trust,2022-05-17,,2016-02-12,CLOSED,Closed,Bishop Auckland College,Woodhouse Lane,,Bishop Auckland,Not recorded,DL14 6JZ,Not recorded,,,10080822.0
 17065,TR03270,BOLDER ACADEMY TRUST,8932893.0,10,Single-academy trust,,,2014-03-11,OPEN,Open,Bolder Academy,Macfarlane Lane,,Isleworth,Not recorded,TW7 5DB,Not recorded,,,10080823.0
 17066,TR01743,REACH ACADEMY TRUST,7634106.0,6,Multi-academy trust,,,2011-05-13,OPEN,Open,53-55 High Street,,,Feltham,Not recorded,TW13 4AB,Not recorded,,,10058737.0
 17067,,Thanet Endeavour Learning Trust,,2,Trust,,2014-07-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
@@ -6056,7 +6055,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 17408,SP02007,The Forest of Dean Trust,,5,School sponsor,,2019-07-15,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17409,SP02216,Tarporley High School and Sixth Form College,,5,School sponsor,,2020-01-16,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17410,SP02227,Coastal Learning Partnership,,5,School sponsor,,2020-01-15,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-17411,SP02144,Southfield School,,5,School sponsor,,2018-05-02,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+17411,SP02144,Orbis Education Trust,,5,School sponsor,,2018-05-02,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17412,,Downland Village Schools Federation,,1,Federation,,2021-03-31,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17413,,The Stewart Headlam Hague Schools Governance Federation,,1,Federation,,2020-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17414,SP02230,Hollingworth Learning Trust,,5,School sponsor,,2020-03-18,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
@@ -6111,7 +6110,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 17464,,Boroughbridge High School and King James's School Federation,,1,Federation,,2021-01-04,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17465,TR03261,IDEAS FOUNDATION TRUST,8334173.0,10,Single-academy trust,,,2012-12-17,OPEN,Open,93 Tabernacle Street,,,London,Not recorded,EC2A 4BA,Not recorded,,,10089354.0
 17466,TR03309,CITY GATES SCHOOL TRUST,8753817.0,10,Single-academy trust,2021-07-06,,2013-10-30,CLOSED,Closed,36a Goodmayes Road,,,Ilford,Not recorded,IG3 9UR,Not recorded,,,
-17467,TR03768,FLAGSHIP SCHOOL,10020683.0,10,Single-academy trust,,,2016-02-23,OPEN,Open,40 Collier Road,,,Hastings,Not recorded,TN34 3JR,Not recorded,,,10089061.0
+17467,TR03768,FLAGSHIP SCHOOL,10020683.0,10,Single-academy trust,,,2016-02-23,OPEN,Open,The Flagship School,The Ridge,,Hastings,Not recorded,TN34 2AE,Not recorded,,,10089061.0
 17468,TR03928,PROVIDENCE LEARNING PARTNERSHIP,11652271.0,6,Multi-academy trust,,,2018-10-31,OPEN,Open,C/O Durham Sixth Form Centre,Providence Row The Sands,,Durham,Not recorded,DH1 1SG,Not recorded,,,10090109.0
 17469,TR03934,JAMES MARKS ACADEMY TRUST,12058586.0,6,Multi-academy trust,,,2019-06-19,OPEN,Open,11 Box Lane,,,Hemel Hempstead,Not recorded,HP3 0DF,Not recorded,,,10088354.0
 17470,TR03940,SPARK OF GENIUS ACADEMY,12230116.0,10,Single-academy trust,,,2019-09-26,OPEN,Open,Headmasters House Mill Lane,Norton,,Stockton On Tees,Not recorded,TS20 1LG,Not recorded,,,10090108.0
@@ -6181,7 +6180,7 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 17534,SP02248,Mater Christi Multi Academy Trust,,5,School sponsor,,2021-03-18,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17535,SP00784,Newbury College,,5,School sponsor,,2014-11-05,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17536,TR00751,PRIMITAS LEARNING PARTNERSHIP,7669035.0,6,Multi-academy trust,,,2011-06-14,OPEN,Open,Erasmus Darwin Academy,Pool Road,,Burntwood,Not recorded,WS7 3QW,Not recorded,,,10058889.0
-17537,TR02092,ST LAWRENCE ACADEMIES TRUST LTD,6493485.0,6,Multi-academy trust,,,2008-02-05,OPEN,Open,The St Lawrence Academies Trust C/O The St Lawrence Academy,Doncaster Road,,Scunthorpe,Not recorded,DN15 7DF,Not recorded,,,10058231.0
+17537,TR02092,ST LAWRENCE ACADEMIES TRUST LTD,6493485.0,6,Multi-academy trust,,,2008-02-05,OPEN,Open,"The St Lawrence Academies Trust Suite 14 Concorde House,Kirmington Buisness Centre",Limber Road,,Kirmington,Not recorded,DN39 6YP,Not recorded,,,10058231.0
 17538,TR00138,ACCORDIA ACADEMIES TRUST,8426360.0,6,Multi-academy trust,,,2013-03-01,OPEN,Open,Barrs Court Specialist (Sen) School & College,Barrs Court Road,,Hereford,Not recorded,HR1 1EQ,Not recorded,,,10060345.0
 17539,TR03141,SAINT JOHN SOUTHWORTH CATHOLIC ACADEMY TRUST,9482572.0,6,Multi-academy trust,,,2015-03-10,OPEN,Open,89 Addison Road,,,London,Not recorded,W14 8BZ,Not recorded,,,10060965.0
 17540,TR00421,CAVENDISH EDUCATION TRUST,8135372.0,6,Multi-academy trust,,,2012-07-09,OPEN,Open,The Cavendish School,Eldon Road,,Eastbourne,Not recorded,BN21 1UE,Not recorded,,,10059901.0
@@ -6231,12 +6230,23 @@ Group UID,Group ID,Group Name,Companies House Number,Group Type (code),Group Typ
 17584,TR04003,NORTH COTSWOLD SCHOOLS FEDERATION MAT,13885394.0,6,Multi-academy trust,,,2022-02-01,OPEN,Open,St James & Ebrington Cofe Primary School,Pear Tree Close,,Chipping Campden,Not recorded,GL55 6DB,Not recorded,,,10090601.0
 17585,TR03911,BISHOP OTTER ACADEMY TRUST,11307754.0,6,Multi-academy trust,,,2018-04-12,OPEN,Open,St Nicolas And St Mary Ce Primary School,Eastern Avenue,,Shoreham By Sea,Not recorded,BN43 6PE,Not recorded,,,10090112.0
 17586,,The Compass Federation,,1,Federation,,2022-04-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
-17587,,THE ELM PARK PRIMARY SCHOOL AND THE R J MITCHELL PRIMARY SCHOOL FEDERATION,,1,Federation,,2022-03-24,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+17587,,The Aspire Learning Federation,,1,Federation,,2022-03-24,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17588,,Sodbury Vale Federation,,1,Federation,,2022-03-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17589,TR04005,MATER ECCLESIAE CATHOLIC MULTI-ACADEMY TRUST,13882215.0,6,Multi-academy trust,,,2022-01-31,OPEN,Open,The Education Centre,Balmoral Road,,Lancaster,Not recorded,LA1 3BT,Not recorded,,,10090708.0
 17590,,Village Schools Partnership,,1,Federation,,2022-04-25,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 17591,TR03980,SIKH ACADEMIES TRUST,13104715.0,6,Multi-academy trust,,,2020-12-30,OPEN,Open,Khalsa Primary School,Wexham Road,,Slough,Not recorded,SL2 5QR,Not recorded,,,10087808.0
-17592,TR03288,THE LIPA SIXTH FORM COLLEGE,8825752.0,6,Multi-academy trust,,,2013-12-24,OPEN,Open,The Liverpool Institute,Mount Street,,Liverpool,Not recorded,L1 9HF,Not recorded,,,10064306.0
+17592,TR03288,THE LIPA MULTI ACADEMY TRUST,8825752.0,6,Multi-academy trust,,,2013-12-24,OPEN,Open,The Liverpool Institute,Mount Street,,Liverpool,Not recorded,L1 9HF,Not recorded,,,10064306.0
+17593,,Foxhills Federation,,1,Federation,,2022-06-08,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+17594,TR03878,THE COLLABORATIVE EDUCATIONAL TRUST OF WILMSLOW,14088515.0,6,Multi-academy trust,,,2022-05-05,OPEN,Open,Wilmslow High School,Holly Road,,Wilmslow,Not recorded,SK9 1LZ,Not recorded,,,10090800.0
+17595,TR04000,ASCENSION CATHOLIC ACADEMY TRUST,14111862.0,6,Multi-academy trust,,,2022-05-17,OPEN,Open,St Richard Reynolds Catholic College,Clifden Road,,Twickenham,Not recorded,TW1 4LT,Not recorded,,,10090799.0
+17596,SP02283,T.E.A.M Education Trust,,5,School sponsor,,2022-04-27,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+17597,,The Federation of the Annunciation Catholic Schools,,1,Federation,,2022-02-21,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+17598,,Polden Bower and Avalon School Federation,,1,Federation,,2021-09-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+17599,SP01846,Blessed Christopher Wharton Catholic Academy Trust,,5,School sponsor,,2021-11-19,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+17600,SP02074,Walton Multi-Academy Trust,,5,School sponsor,,2022-04-28,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+17601,,The Winterton Federation,,1,Federation,,2019-01-01,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+17602,SP02285,The Diocese of Worcester Multi Academy Trust,,5,School sponsor,,2022-06-23,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
+17603,SP02288,The Rainbow Academy Trust,,5,School sponsor,,2022-06-22,,OPEN,Open,,,,,Not recorded,,Not recorded,,,
 80000,,South Warwickshire Group,,8,Children's Centres Group,,1900-01-01,,OPEN,Open,,,,,,,,,,
 80002,,East,,8,Children's Centres Group,,1900-01-01,,OPEN,Open,,,,,,,,,,
 80003,,Kettering,,8,Children's Centres Group,,1900-01-01,,OPEN,Open,,,,,,,,,,
