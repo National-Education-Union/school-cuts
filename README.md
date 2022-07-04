@@ -9,6 +9,7 @@ Real terms per pupil funding was cut by £362 on average from £6,837 in 2015-16
 These funding cuts were not evenly spread. 
 
 These cuts varied by school type with mainstream primary schools least affected and nursery schools and special schools worst affected.
+
 <img src="https://user-images.githubusercontent.com/4374366/177146375-d3dffff3-b94e-4af7-a71f-efe3361a6f8a.png" width="600">
 
 In addition, schools with greater levels of poverty amongst their pupils were harder hit than schools serving the less disadvantaged.
