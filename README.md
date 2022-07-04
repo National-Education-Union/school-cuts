@@ -21,6 +21,31 @@ There was also significant regional and local variation.
 
 The twenty worst hit local authorities were:
 
+Local Authority	Change in per pupil funding 2015-16 to 2020-21		"Change in spending power 
+2015-16 to 2020-21"
+Birmingham	-£474	-6%	-£91.2 mn
+Tower Hamlets	-£1,123	-11%	-£50.0 mn
+Hertfordshire	-£257	-4%	-£48.9 mn
+Bradford	-£469	-7%	-£43.1 mn
+Lancashire	-£243	-4%	-£42.6 mn
+Essex	-£211	-3%	-£42.4 mn
+Norfolk	-£366	-6%	-£38.8 mn
+Liverpool	-£538	-7%	-£38.0 mn
+Southwark	-£744	-8%	-£30.0 mn
+Derbyshire	-£265	-4%	-£28.0 mn
+Coventry	-£460	-7%	-£25.4 mn
+Lambeth	-£690	-7%	-£25.1 mn
+Sandwell	-£416	-6%	-£23.6 mn
+Luton	-£597	-8%	-£23.0 mn
+Bristol, City of	-£398	-6%	-£22.3 mn
+Waltham Forest	-£549	-7%	-£22.3 mn
+Brent	-£485	-6%	-£21.8 mn
+Hackney	-£764	-8%	-£21.3 mn
+Enfield	-£416	-5%	-£21.2 mn
+Bromley	-£475	-7%	-£21.0 mn
+![image](https://user-images.githubusercontent.com/4374366/177141514-6db07134-b964-4180-8f54-4741d8222c6d.png)
+
+
 ![image](https://user-images.githubusercontent.com/4374366/167016757-df54d188-4f07-4c1d-a238-3dd92728ea47.png)
 
 It is striking that despite the claimed ambition of the Government to address historic under-funding, only 7 out of 152 local authorities saw an increase in their spending power:
