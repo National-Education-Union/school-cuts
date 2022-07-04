@@ -19,7 +19,7 @@ In addition, schools with greater levels of poverty amongst their pupils were ha
 
 There was also significant regional and local variation.
 
-![image](https://user-images.githubusercontent.com/4374366/177141962-cdb60102-ea73-4122-ac6d-46059495bafb.png)
+<img src="https://user-images.githubusercontent.com/4374366/177141962-cdb60102-ea73-4122-ac6d-46059495bafb.png" width="600">
 
 The twenty worst hit local authorities were:
 
