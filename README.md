@@ -2,24 +2,25 @@
 The school funding information for every school can be found on a map at [www.schoolcuts.org.uk](www.schoolcuts.org.uk).
 
 # Findings
-We found that out of the 20,319 schools with comparable data 14,227 (70%) had less spending power in 2020-21 compared with 2015-16. This is despite the fact that in 2020-21 schools had additional funding to spend on mitigating the spread coronavirus and funding to help pupils catch-up on their lost learning.
+We found that out of the 20,309 schools with comparable data 12,311 (61%) had lower per pupil funding in real terms in 2020-21 compared with 2015-16. This is despite the fact that in 2020-21 schools had additional funding to spend on mitigating the spread coronavirus and funding to help pupils catch-up on their lost learning. The Government say that the value of the coronavirus funding for 2020-21 was £1 bn.
 
-Real terms per pupil funding was cut by £362 on average from £6,837 in 2015-16 to £6,475 in 2020-21 (in 2022-23 prices). This cut in per pupil funding is equivalent to a cut in school spending power of £2.8 bn or 6%.
+Real terms per pupil funding was cut by £203 on average from £6,650 in 2015-16 to £6,447 in 2020-21 (in 2022-23 prices). This cut in per pupil funding is equivalent to a cut in school spending power of £2.4 bn or 3%.
 
 These funding cuts were not evenly spread. 
 
 These cuts varied by school type with mainstream primary schools least affected and nursery schools and special schools worst affected.
-<img src="https://user-images.githubusercontent.com/4374366/177136542-6ad90a79-0c5b-4107-8e5d-1b184200f3d6.png" width="600">
+
+<img src="https://user-images.githubusercontent.com/4374366/177146375-d3dffff3-b94e-4af7-a71f-efe3361a6f8a.png" width="600">
 
 In addition, schools with greater levels of poverty amongst their pupils were harder hit than schools serving the less disadvantaged.
 
-<img src="https://user-images.githubusercontent.com/4374366/177141892-dfe1e78d-00ae-48b9-837f-83afe5c77838.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/177146437-ba777f7d-bf50-4705-9979-492da1ca996b.png" width="600">
 
-<img src="https://user-images.githubusercontent.com/4374366/177141911-5151403a-826e-43bd-8e18-2eb08decc3f5.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/177146497-2322a2d4-7bd3-4086-808a-3210e6ee26de.png" width="600">
 
 There was also significant regional and local variation.
 
-<img src="https://user-images.githubusercontent.com/4374366/177141962-cdb60102-ea73-4122-ac6d-46059495bafb.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/177146559-73778363-f4e2-4877-86a0-9ae810248b6d.png" width="600">
 
 The twenty worst hit local authorities were:
 
@@ -54,7 +55,8 @@ This data was taken from [Schools financial benchmarking](https://schools-financ
 We have updated and extended the index of school costs published by the National Audit Office in their report, ["Financial sustainability of schools"](https://www.nao.org.uk/wp-content/uploads/2016/12/Financial-sustainability-of-schools.pdf).
 
 This chart shows cumulative costs pressures facing schools, 2016-17 to 2019-20
-<img src="https://user-images.githubusercontent.com/4374366/177144873-eb516580-7eb4-4a94-851c-b9a3b98452a9.png" height="800">
+
+<img src="https://user-images.githubusercontent.com/4374366/177144873-eb516580-7eb4-4a94-851c-b9a3b98452a9.png" width="500">
 
 We have used these figures for additional National Insurance costs and the Teachers’ Pension Scheme. We have used the Department for Education (DfE) documents:
 - [Schools’ costs: 2018 to 2019 and 2019 to 2020 (Feb 2018)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/678439/Schools_costs_technical_note.pdf)
@@ -62,16 +64,18 @@ We have used these figures for additional National Insurance costs and the Teach
 - [Schools’ costs: 2020 to 2021 (Jan 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961096/Schools_costs_technical_note_January_2021.pdf)
 
 ### Non-staff costs
-We have updated non-staff costs with the latest estimates for the GDP deflator measure of inflation from HM Treasury, [GDP deflators at market prices, and money GDP March 2022 (Spring Statement)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1062965/GDP_Deflators_Spring_Statement_March_2022_update.xlsx).
+We have updated non-staff costs with the latest estimates for the GDP deflator measure of inflation from HM Treasury, [GDP deflators at market prices, and money GDP June 2022 (Spring Statement)](https://www.gov.uk/government/statistics/gdp-deflators-at-market-prices-and-money-gdp-june-2022-quarterly-national-accounts).
 
 ### Support staff pay
-The DfE documents uses the National Joint Council (NJC) pay awards, which cover all local authority staff. However, school support staff are paid significantly less well than the average council employee and many are employed on the minimum wage. In recent years, there have been uplifts in the minimum wage that outstrip pay awards for other council workers. We made an index for school support staff pay by sending Freedom of Information requests (FOIs) to a sample of local authorities and then tracked the value of the pay points back to 2009-10 and weighted them by the number of staff paid on each grade from the FOIs. The increases in the minimum wage have had a substantial impact on school support staff pay and their pay has risen much faster than the headline rates for the NJC awards.
+The DfE documents uses the National Joint Council (NJC) pay awards, which cover all local authority staff, the DfE adjusted the award for increases in the National Living Wage. In recent years, there have been uplifts in the minimum wage that outstrip pay awards for other council workers. We made an index for school support staff pay by sending Freedom of Information requests (FOIs) to a sample of local authorities and then tracked the value of the pay points back to April 2015 and weighted them by the number of staff paid on each grade from the FOIs. 
 
 ![image](https://user-images.githubusercontent.com/4374366/177144593-f423b80a-3fa7-41fd-8498-07ae766f8ab7.png)
 
+Our results agree with the DfE analysis for the period 2018 to 2020, where they have estimated the increase in pay as 6.3% over the two years. We disagree with the DfE estimate for 2019 to 2020. The DfE gave the figure for 2.4%; however, the NJC award was 2.75% on all grades. The spreadsheet with the calculations are in [school support staff pay.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20support%20staff%20pay.xlsx).
+
 ## School costs index
 
-<img src="https://user-images.githubusercontent.com/4374366/177145549-893b03dc-01ff-402c-96f0-0ce35181b936.png" height="800">
+<img src="https://user-images.githubusercontent.com/4374366/177145549-893b03dc-01ff-402c-96f0-0ce35181b936.png" width="500">
 
 The calculations be found in the spreadsheet, [school costs.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20costs.xlsx).
 
