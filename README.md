@@ -13,9 +13,9 @@ These cuts varied by school type with mainstream primary schools least affected 
 
 In addition, schools with greater levels of poverty amongst their pupils were harder hit than schools serving the less disadvantaged.
 
-![image](https://user-images.githubusercontent.com/4374366/177141892-dfe1e78d-00ae-48b9-837f-83afe5c77838.png)
+<img src="https://user-images.githubusercontent.com/4374366/177141892-dfe1e78d-00ae-48b9-837f-83afe5c77838.png" width="600">
 
-![image](https://user-images.githubusercontent.com/4374366/177141911-5151403a-826e-43bd-8e18-2eb08decc3f5.png)
+<img src="https://user-images.githubusercontent.com/4374366/177141911-5151403a-826e-43bd-8e18-2eb08decc3f5.png" width="600">
 
 There was also significant regional and local variation.
 
@@ -53,8 +53,6 @@ This data was taken from [Schools financial benchmarking](https://schools-financ
 ## School costs index
 We have updated and extended the index of school costs published by the National Audit Office in their report, ["Financial sustainability of schools"](https://www.nao.org.uk/wp-content/uploads/2016/12/Financial-sustainability-of-schools.pdf).
 
-![image](https://user-images.githubusercontent.com/4374366/177142834-9b864cce-c889-40e3-aa17-bb01d6f62223.png)
-
 This chart shows cumulative costs pressures facing schools, 2016-17 to 2019-20
 
 We have used these figures for additional National Insurance costs and the Teachers’ Pension Scheme. We have used the Department for Education (DfE) documents:
@@ -72,7 +70,7 @@ The DfE documents uses the National Joint Council (NJC) pay awards, which cover 
 
 ## School costs index
 
-![image](https://user-images.githubusercontent.com/4374366/167592255-9b207b64-ae02-4380-aa86-317b9dce8886.png)
+<img src="https://user-images.githubusercontent.com/4374366/177142834-9b864cce-c889-40e3-aa17-bb01d6f62223.png" height="800">
 
 The calculations be found in the spreadsheet, [school costs.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20costs.xlsx).
 
