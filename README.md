@@ -4,7 +4,7 @@ The school funding information for every school can be found on a map at [www.sc
 # Findings
 We found that out of the 20,309 schools with comparable data 12,311 (61%) had lower per pupil funding in real terms in 2020-21 compared with 2015-16. This is despite the fact that in 2020-21 schools had additional funding to spend on mitigating the spread coronavirus and funding to help pupils catch-up on their lost learning. The Government say that the value of the coronavirus funding for 2020-21 was £1 bn.
 
-Real terms per pupil funding was cut by £203 on average from £6,650 in 2015-16 to £6,447 in 2020-21 (in 2022-23 prices). This cut in per pupil funding is equivalent to a cut in school spending power of £2.4 bn or 3%.
+Real terms per pupil funding was cut by £203 on average from £6,650 in 2015-16 to £6,447 in 2020-21 (in 2022-23 prices). This cut in per pupil funding is equivalent to a cut in school spending power of £1.6 bn or 3%.
 
 These funding cuts were not evenly spread. 
 
