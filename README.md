@@ -10,13 +10,17 @@ These funding cuts were not evenly spread.
 
 These cuts varied by school type with mainstream primary schools least affected and nursery schools and special schools worst affected.
 
-<img src="https://user-images.githubusercontent.com/4374366/177146375-d3dffff3-b94e-4af7-a71f-efe3361a6f8a.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/177989722-cd17aaf9-4050-41a9-a0fd-9f5a71a2dcff.png" width="600">
 
 In addition, schools with greater levels of poverty amongst their pupils were harder hit than schools serving the less disadvantaged.
 
 <img src="https://user-images.githubusercontent.com/4374366/177146437-ba777f7d-bf50-4705-9979-492da1ca996b.png" width="600">
 
 <img src="https://user-images.githubusercontent.com/4374366/177146497-2322a2d4-7bd3-4086-808a-3210e6ee26de.png" width="600">
+
+Maintianed nursey schools have been particularly badly affected by cuts.
+
+<img src="https://user-images.githubusercontent.com/4374366/177990128-1385e2c9-e699-44e3-b286-387ae8d3a014.png" width="600">
 
 There was also significant regional and local variation.
 
@@ -69,9 +73,9 @@ We have updated non-staff costs with the latest estimates for the GDP deflator m
 ### Support staff pay
 The DfE documents uses the National Joint Council (NJC) pay awards, which cover all local authority staff, the DfE adjusted the award for increases in the National Living Wage. In recent years, there have been uplifts in the minimum wage that outstrip pay awards for other council workers. We made an index for school support staff pay by sending Freedom of Information requests (FOIs) to a sample of local authorities and then tracked the value of the pay points back to April 2015 and weighted them by the number of staff paid on each grade from the FOIs. 
 
-![image](https://user-images.githubusercontent.com/4374366/177144593-f423b80a-3fa7-41fd-8498-07ae766f8ab7.png)
+![image](https://user-images.githubusercontent.com/4374366/177989122-a6025e3e-af0c-4af5-aaa6-e32f203d0016.png)
 
-Our results agree with the DfE analysis for the period 2018 to 2020, where they have estimated the increase in pay as 6.3% over the two years. We disagree with the DfE estimate for 2019 to 2020. The DfE gave the figure for 2.4%; however, the NJC award was 2.75% on all grades. The spreadsheet with the calculations are in [school support staff pay.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20support%20staff%20pay.xlsx).
+Our results differ with the DfE analysis for the period 2018 to 2020, where they have estimated the increase in pay as 6.3% over the two years; however, our analysis shows it was 7.5%. We also disagree with the DfE estimate for 2019 to 2020. The DfE gave the figure for 2.4%; however, the NJC award was 2.75% on all grades. The spreadsheet with the calculations are in [school support staff pay.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20support%20staff%20pay.xlsx).
 
 ## School costs index
 
