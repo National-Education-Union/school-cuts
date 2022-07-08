@@ -69,7 +69,7 @@ We have updated non-staff costs with the latest estimates for the GDP deflator m
 ### Support staff pay
 The DfE documents uses the National Joint Council (NJC) pay awards, which cover all local authority staff, the DfE adjusted the award for increases in the National Living Wage. In recent years, there have been uplifts in the minimum wage that outstrip pay awards for other council workers. We made an index for school support staff pay by sending Freedom of Information requests (FOIs) to a sample of local authorities and then tracked the value of the pay points back to April 2015 and weighted them by the number of staff paid on each grade from the FOIs. 
 
-![image](https://user-images.githubusercontent.com/4374366/177144593-f423b80a-3fa7-41fd-8498-07ae766f8ab7.png)
+![image](https://user-images.githubusercontent.com/4374366/177989122-a6025e3e-af0c-4af5-aaa6-e32f203d0016.png)
 
 Our results agree with the DfE analysis for the period 2018 to 2020, where they have estimated the increase in pay as 6.3% over the two years. We disagree with the DfE estimate for 2019 to 2020. The DfE gave the figure for 2.4%; however, the NJC award was 2.75% on all grades. The spreadsheet with the calculations are in [school support staff pay.xlsx](https://github.com/National-Education-Union/school_cuts/blob/main/data/school_costs/school%20support%20staff%20pay.xlsx).
 
