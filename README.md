@@ -10,21 +10,21 @@ These funding cuts were not evenly spread.
 
 These cuts varied by school type with mainstream primary schools least affected and nursery schools and special schools worst affected.
 
-<img src="https://user-images.githubusercontent.com/4374366/177989722-cd17aaf9-4050-41a9-a0fd-9f5a71a2dcff.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/179968273-c259c745-5910-473c-a4ba-c20ba494d9f1.png" width="600">
 
 In addition, schools with greater levels of poverty amongst their pupils were harder hit than schools serving the less disadvantaged.
 
-<img src="https://user-images.githubusercontent.com/4374366/177146437-ba777f7d-bf50-4705-9979-492da1ca996b.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/179968354-549ac374-bc2d-476c-bf01-aa6acf2bbe2e.png" width="600">
 
-<img src="https://user-images.githubusercontent.com/4374366/177146497-2322a2d4-7bd3-4086-808a-3210e6ee26de.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/179968401-d138d8a1-0ac0-4089-9f49-650a9e5adc2f.png" width="600">
 
 Maintianed nursey schools have been particularly badly affected by cuts.
 
-<img src="https://user-images.githubusercontent.com/4374366/177990128-1385e2c9-e699-44e3-b286-387ae8d3a014.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/179968165-b2a448a6-83fb-4eab-98dd-d85c8ccd2178.png" width="600">
 
 There was also significant regional and local variation.
 
-<img src="https://user-images.githubusercontent.com/4374366/177146559-73778363-f4e2-4877-86a0-9ae810248b6d.png" width="600">
+<img src="https://user-images.githubusercontent.com/4374366/179968467-abd43935-c546-45ad-b541-42869047deca.png" width="600">
 
 The twenty worst hit local authorities were:
 
