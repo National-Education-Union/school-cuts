@@ -2,13 +2,13 @@
 The school funding information for every school can be found on a map at [www.schoolcuts.org.uk](www.schoolcuts.org.uk).
 
 # Findings
-We found that out of the 20,309 schools with comparable data 12,311 (61%) had lower per pupil funding in real terms in 2020-21 compared with 2015-16. This is despite the fact that in 2020-21 schools had additional funding to spend on mitigating the spread coronavirus and funding to help pupils catch-up on their lost learning. The Government say that the value of the coronavirus funding for 2020-21 was £1 bn.
+We found that out of the 20,309 schools with comparable data 12,311 (61%) had lower per pupil funding in real terms in 2020-21 compared with 2015-16. This is despite the fact that in 2020-21 schools had additional funding to spend on mitigating the spread of coronavirus and helping pupils catch up on their lost learning. The Government say that the value of the coronavirus funding for 2020-21 was £1 bn.
 
 Real terms per pupil funding was cut by £203 on average from £6,650 in 2015-16 to £6,447 in 2020-21 (in 2022-23 prices). This cut in per pupil funding is equivalent to a cut in school spending power of £1.6 bn or 3%.
 
 These funding cuts were not evenly spread. 
 
-These cuts varied by school type with mainstream primary schools least affected and nursery schools and special schools worst affected.
+The cuts varied by school type with mainstream primary schools least affected and nursery schools and special schools worst affected.
 
 <img src="https://user-images.githubusercontent.com/4374366/179968273-c259c745-5910-473c-a4ba-c20ba494d9f1.png" width="600">
 
@@ -18,7 +18,7 @@ In addition, schools with greater levels of poverty amongst their pupils were ha
 
 <img src="https://user-images.githubusercontent.com/4374366/179968401-d138d8a1-0ac0-4089-9f49-650a9e5adc2f.png" width="600">
 
-Maintianed nursey schools have been particularly badly affected by cuts.
+Maintained nursey schools have been particularly badly affected by cuts.
 
 <img src="https://user-images.githubusercontent.com/4374366/179968165-b2a448a6-83fb-4eab-98dd-d85c8ccd2178.png" width="600">
 
