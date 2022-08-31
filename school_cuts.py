@@ -6,13 +6,13 @@ output_dir = 'output/'
 
 years = ['2015-16', '2016-17', '2017-18', '2018-19', '2019-20', '2020-21']
 school_costs = {
-    '2015-16' : 0.816539816041129,
-    '2016-17' : 0.844281347806681,
-    '2017-18' : 0.858697428096929,
-    '2018-19' : 0.880228703824073,
-    '2019-20' : 0.922858607112852,
-    '2020-21' : 0.965429324632986,
-    '2021-22' : 0.976258656162358,
+    '2015-16' : 0.793060264868583,
+    '2016-17' : 0.817400825132381,
+    '2017-18' : 0.835278397499553,
+    '2018-19' : 0.85607220163531,
+    '2019-20' : 0.897227197542682,
+    '2020-21' : 0.929419593059095,
+    '2021-22' : 0.943229894944067,
     '2022-23' : 1,
     }
 
@@ -44,7 +44,6 @@ maintained_2015_16.drop(
         ],
     inplace=True
     )
-
 academies_2015_16 = concat(               
     [
         read_excel(
@@ -68,6 +67,7 @@ academies_2015_16 = concat(
         ]
     )
 academies_2015_16['Grant Funding'] *= 1000
+print('Imported data for 2015-16')
 
 csvs = {
        '2015-16': concat([maintained_2015_16, academies_2015_16]),
@@ -182,12 +182,14 @@ csvs = {
                ]
            ),
        }
+print('Imported data for 2017-21')
 
 for year in years:
     csvs[year] = csvs[year].loc[
         (csvs[year]['Pupils']!=0) & (csvs[year]['Grant Funding']!=0)
         ].copy()
     csvs[year] = update_urn(csvs[year])
+    print(f'URNs updated for {year}')
 
 funding = concat(csvs, names=['Year'])
 funding = funding.reorder_levels(['URN', 'Year'])
@@ -228,6 +230,8 @@ for year in years[1:]:
         funding[('Grant Funding Per Pupil (2022-23 prices)'), year] /
         funding[('Grant Funding Per Pupil (2022-23 prices)'), '2015-16'] - 1
         )
+print('Grant funding per pupil calculated')
+
 # AP & PRU pupil numbers wrong for 2016-17
 funding.loc[
     (funding[('Phase', '2020-21')]=='Alternative provision') |
@@ -245,6 +249,7 @@ funding.loc[
     ('Change in spending power with 2015-16', '2016-17')
     ] = nan
 # remove schools with anomalous funding change
+
 for year in years[1:]:
     funding.loc[
         (funding[('Change in spending power with 2015-16 (%)', year)]>.5) |
@@ -265,6 +270,7 @@ for year in years[1:]:
         funding[('Change in spending power with 2015-16 (%)', year)]>=0,
         ('Schools with cut in spending power', year)
         ] = 0
+print('Removed schools with anomalous funding change')
 
 edu = edubase[
     [
@@ -312,6 +318,7 @@ funding = edu.merge(
         left_index=True,
         right_index=True,
         )
+print('Added demographic data for schools')
 
 band_map = {
     4: {0: '1. Least', 1: '2. Low', 2: '3. Average', 3: '4. High', 4: '5. Highest'},
@@ -351,6 +358,7 @@ funding = funding[
     [funding.columns[-1]] + 
     funding.columns[13:-1].tolist()
     ].copy()
+print('Schools FSM quintiles calculated')
 
 groups = [
     {
@@ -402,6 +410,7 @@ for year in years[1:]:
     essential_columns.append(('Change in spending power with 2015-16', year))
 funding_out = funding.dropna(subset=essential_columns)
 funding.to_csv('csv/funding.csv')
+print('Funding CSV exported')
 
 agg = {
        ('EstablishmentName', ''): 'count',

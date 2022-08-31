@@ -87,7 +87,15 @@ downloads/public/"
             parse_dates=['OpenDate'],
             )
         # download edubase links
-        links = read_csv(links_url, encoding="latin", usecols=[0,1,3])
+        links = read_csv(
+            links_url,
+            low_memory=False,
+            dayfirst=True,
+            parse_dates=[
+                'LinkEstablishedDate', 
+                ],
+            encoding="latin",
+            )
         # download group_links
         group_links = read_csv(
             group_links_url,
@@ -135,13 +143,16 @@ from {date_file_created.strftime('%A, %d %B %Y')}.")
 
 if make_files and not(cant_make_files):
     # process links csv to cut to just unique successors
-    links = links.loc[links.LinkType=="Successor"].copy()
-    links.drop(columns=["LinkType"], inplace=True)
-    links.drop_duplicates(subset="LinkURN", keep=False, inplace=True)
-    links.drop_duplicates(subset="URN", keep=False, inplace=True)
-    links.rename(columns={"LinkURN": "NEW_URN"}, inplace=True)
-    links.set_index("URN", inplace=True)
-    links = links.loc[links["NEW_URN"] > links.index]
+    links_cut = links.loc[links.LinkType=="Successor"].copy()
+    links_cut.drop(
+        columns=["LinkType", "LinkEstablishedDate", "LinkName"], 
+        inplace=True
+        )
+    links_cut.drop_duplicates(subset="LinkURN", keep=False, inplace=True)
+    links_cut.drop_duplicates(subset="URN", keep=False, inplace=True)
+    links_cut.rename(columns={"LinkURN": "NEW_URN"}, inplace=True)
+    links_cut.set_index("URN", inplace=True)
+    links_cut = links_cut.loc[links_cut["NEW_URN"] > links_cut.index]
 
     # create inital lookup table
     lookup = DataFrame(
@@ -149,12 +160,12 @@ if make_files and not(cant_make_files):
         index = Index(data=edubase.index, name="OLD_URN")
         )
 
-    # cycle through links file to update lookup table
+    # cycle through links_cut file to update lookup table
     # until there are no more successors
     matches=1
     while matches>0:
         lookup = lookup.merge(
-            links,
+            links_cut,
             how="left",
             left_on="LATEST_URN",
             right_index=True
@@ -179,8 +190,9 @@ if make_files and not(cant_make_files):
     lookup.to_csv(output_filenames["lookup"])
     group_links.to_csv(output_filenames["group_links"])
     groups.to_csv(output_filenames["groups"])
-    academies.to_csv(output_filenames["academies"])    
-
+    academies.to_csv(output_filenames["academies"])
+    links.to_csv(output_filenames["links"])
+    
 else:
     edubase = read_csv(
         output_filenames["edubase"],
@@ -192,6 +204,13 @@ else:
             'CensusDate',
             'LastChangedDate',
             'DateOfLastInspectionVisit',
+            ],
+        )
+    links = read_csv(
+        output_filenames["links"],
+        low_memory=False,
+        parse_dates=[
+            'LinkEstablishedDate', 
             ],
         )
     statefunded = read_csv(
