@@ -29,6 +29,7 @@ There was also significant regional and local variation.
 The twenty worst hit local authorities were:
 
 ![image](https://user-images.githubusercontent.com/4374366/187725982-d39dcd5d-fead-4fc8-9e19-e28ae904c0ac.png)
+
 (Spending power is defined in Calculating school funding changes.)
 
 It is striking that despite the claimed ambition of the Government to address historic under-funding, only 32 out of 152 local authorities saw an increase in their spending power:
