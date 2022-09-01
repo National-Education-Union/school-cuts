@@ -70,7 +70,7 @@ We have used these figures for additional National Insurance costs and the Teach
 - [Schools’ costs: 2020 to 2021 (Jan 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961096/Schools_costs_technical_note_January_2021.pdf)
 
 ### Non-staff costs
-We have used the Consumer Prices Index (CPI) to estimate non-staff costs. We used the [Office for National Statistics’ figure](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindices) for Q2 each year.
+We have used the Consumer Prices Index (CPI) to estimate non-staff costs. We used the [Office for National Statistics’ figure](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindices) for the second quarter each year.
 
 ### Support staff pay
 The DfE documents uses the National Joint Council (NJC) pay awards, which cover all local authority staff, the DfE adjusted the award for increases in the National Living Wage. In recent years, there have been uplifts in the minimum wage that outstrip pay awards for other council workers. We made an index for school support staff pay by sending Freedom of Information requests (FOIs) to a sample of local authorities and then tracked the value of the pay points back to April 2015 and weighted them by the number of staff paid on each grade from the FOIs. 
